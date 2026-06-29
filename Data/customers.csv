@@ -1,0 +1,1801 @@
+customer_id,plan_tier,base_mrr,signup_month_idx,industry,region,acquisition_channel,company_size_employees,has_csm
+CUST-10000,Starter,191.61,10,Media,Europe,Paid Search,33,False
+CUST-10001,Starter,194.49,11,Manufacturing,North America,Partner/Referral,74,False
+CUST-10002,Starter,127.71,11,SaaS/Tech,North America,Outbound Sales,13,False
+CUST-10003,Starter,62.59,18,FinTech,Europe,Inbound/Organic,21,True
+CUST-10004,Growth,336.25,6,E-commerce,LATAM,Partner/Referral,2,True
+CUST-10005,Starter,85.15,6,FinTech,Europe,Outbound Sales,84,False
+CUST-10006,Starter,148.38,1,Manufacturing,Europe,Paid Search,14,False
+CUST-10007,Starter,108.27,3,Manufacturing,APAC,Partner/Referral,26,True
+CUST-10008,Starter,107.3,17,Professional Services,APAC,Paid Search,27,False
+CUST-10009,Starter,73.79,6,SaaS/Tech,APAC,Partner/Referral,38,False
+CUST-10010,Starter,78.83,7,Healthcare,APAC,Outbound Sales,19,True
+CUST-10011,Enterprise,5363.09,1,SaaS/Tech,North America,Product-Led Trial,12,True
+CUST-10012,Growth,709.41,2,SaaS/Tech,North America,Outbound Sales,36,False
+CUST-10013,Growth,617.66,14,E-commerce,North America,Product-Led Trial,133,False
+CUST-10014,Enterprise,4327.59,3,Manufacturing,North America,Product-Led Trial,5,True
+CUST-10015,Enterprise,5192.06,18,Manufacturing,LATAM,Paid Search,30,True
+CUST-10016,Enterprise,5433.83,5,FinTech,APAC,Partner/Referral,70,True
+CUST-10017,Starter,67.31,6,Manufacturing,North America,Inbound/Organic,19,False
+CUST-10018,Starter,101.89,2,Professional Services,North America,Outbound Sales,5,True
+CUST-10019,Starter,190.44,21,Media,Europe,Inbound/Organic,15,False
+CUST-10020,Starter,87.09,11,Manufacturing,APAC,Outbound Sales,7,True
+CUST-10021,Growth,601.64,21,Professional Services,North America,Inbound/Organic,8,False
+CUST-10022,Growth,624.22,5,Media,Europe,Outbound Sales,5,False
+CUST-10023,Growth,985.76,21,Healthcare,APAC,Inbound/Organic,11,False
+CUST-10024,Growth,755.95,2,FinTech,North America,Partner/Referral,24,False
+CUST-10025,Growth,339.32,0,Media,North America,Paid Search,16,False
+CUST-10026,Growth,787.44,17,Professional Services,Europe,Paid Search,60,False
+CUST-10027,Growth,623.19,1,SaaS/Tech,North America,Partner/Referral,6,False
+CUST-10028,Enterprise,2320.95,8,Healthcare,APAC,Outbound Sales,17,True
+CUST-10029,Enterprise,6956.5,16,Media,APAC,Partner/Referral,79,True
+CUST-10030,Growth,497.45,2,SaaS/Tech,North America,Paid Search,2,False
+CUST-10031,Starter,51.71,13,Education,North America,Outbound Sales,10,False
+CUST-10032,Growth,274.85,18,Manufacturing,North America,Product-Led Trial,66,False
+CUST-10033,Starter,145.77,14,Media,LATAM,Partner/Referral,23,False
+CUST-10034,Starter,52.65,16,Media,North America,Partner/Referral,3,False
+CUST-10035,Growth,961.5,16,Manufacturing,MEA,Outbound Sales,18,False
+CUST-10036,Starter,94.85,22,SaaS/Tech,North America,Paid Search,53,False
+CUST-10037,Growth,277.64,14,Manufacturing,North America,Outbound Sales,27,False
+CUST-10038,Starter,176.3,8,Healthcare,APAC,Product-Led Trial,11,False
+CUST-10039,Growth,265.19,6,SaaS/Tech,Europe,Partner/Referral,3,False
+CUST-10040,Growth,835.84,11,Healthcare,North America,Partner/Referral,4,False
+CUST-10041,Starter,72.26,21,E-commerce,LATAM,Inbound/Organic,221,True
+CUST-10042,Enterprise,3521.33,4,SaaS/Tech,APAC,Partner/Referral,44,True
+CUST-10043,Starter,56.75,19,Manufacturing,Europe,Partner/Referral,6,True
+CUST-10044,Enterprise,6002.17,18,SaaS/Tech,North America,Outbound Sales,10,True
+CUST-10045,Starter,193.4,22,Professional Services,APAC,Product-Led Trial,21,True
+CUST-10046,Enterprise,4096.47,21,Media,North America,Product-Led Trial,37,True
+CUST-10047,Growth,535.26,11,E-commerce,North America,Product-Led Trial,150,True
+CUST-10048,Starter,62.77,14,SaaS/Tech,North America,Partner/Referral,52,False
+CUST-10049,Growth,719.17,9,Manufacturing,Europe,Paid Search,47,False
+CUST-10050,Starter,189.02,0,Media,Europe,Partner/Referral,45,False
+CUST-10051,Enterprise,5454.83,19,Media,Europe,Outbound Sales,28,True
+CUST-10052,Growth,566.14,18,Healthcare,LATAM,Outbound Sales,42,False
+CUST-10053,Starter,81.19,13,E-commerce,North America,Paid Search,78,False
+CUST-10054,Starter,96.85,9,E-commerce,North America,Outbound Sales,12,False
+CUST-10055,Growth,901.1,3,SaaS/Tech,APAC,Inbound/Organic,16,False
+CUST-10056,Starter,134.28,2,SaaS/Tech,APAC,Partner/Referral,100,False
+CUST-10057,Enterprise,7008.89,16,Professional Services,APAC,Inbound/Organic,12,True
+CUST-10058,Starter,105.66,16,Manufacturing,Europe,Inbound/Organic,51,False
+CUST-10059,Starter,184.81,11,SaaS/Tech,North America,Partner/Referral,17,False
+CUST-10060,Growth,558.31,2,FinTech,North America,Outbound Sales,16,False
+CUST-10061,Enterprise,7971.52,4,Healthcare,LATAM,Outbound Sales,32,True
+CUST-10062,Growth,973.95,8,E-commerce,APAC,Inbound/Organic,15,False
+CUST-10063,Growth,265.0,4,Manufacturing,MEA,Product-Led Trial,30,False
+CUST-10064,Enterprise,7630.74,12,FinTech,North America,Partner/Referral,2,True
+CUST-10065,Enterprise,1778.38,2,Education,North America,Partner/Referral,137,True
+CUST-10066,Growth,792.04,7,Education,APAC,Inbound/Organic,7,False
+CUST-10067,Growth,266.23,0,Manufacturing,Europe,Paid Search,56,True
+CUST-10068,Enterprise,1302.12,20,Media,Europe,Outbound Sales,20,True
+CUST-10069,Growth,260.27,14,SaaS/Tech,North America,Inbound/Organic,33,False
+CUST-10070,Growth,920.03,10,FinTech,MEA,Partner/Referral,17,False
+CUST-10071,Growth,510.23,17,FinTech,North America,Inbound/Organic,10,False
+CUST-10072,Growth,225.82,8,SaaS/Tech,Europe,Product-Led Trial,9,False
+CUST-10073,Enterprise,7648.6,4,Professional Services,LATAM,Paid Search,42,True
+CUST-10074,Enterprise,7062.45,12,Education,North America,Inbound/Organic,21,True
+CUST-10075,Enterprise,3637.17,21,Healthcare,APAC,Product-Led Trial,131,True
+CUST-10076,Starter,54.52,0,Education,North America,Partner/Referral,24,False
+CUST-10077,Enterprise,6947.53,16,Education,Europe,Inbound/Organic,25,True
+CUST-10078,Enterprise,5243.22,0,SaaS/Tech,APAC,Paid Search,9,True
+CUST-10079,Growth,615.73,21,Healthcare,Europe,Partner/Referral,17,False
+CUST-10080,Enterprise,1618.86,16,Media,Europe,Product-Led Trial,126,True
+CUST-10081,Starter,69.46,1,Manufacturing,Europe,Paid Search,64,False
+CUST-10082,Starter,184.62,19,SaaS/Tech,Europe,Partner/Referral,31,False
+CUST-10083,Growth,567.02,16,E-commerce,APAC,Partner/Referral,3,False
+CUST-10084,Enterprise,4448.33,12,Manufacturing,Europe,Outbound Sales,36,True
+CUST-10085,Starter,100.85,2,Media,Europe,Product-Led Trial,8,False
+CUST-10086,Growth,378.86,20,Education,North America,Paid Search,21,False
+CUST-10087,Starter,124.51,12,Healthcare,North America,Inbound/Organic,7,False
+CUST-10088,Growth,608.81,10,Professional Services,North America,Inbound/Organic,62,False
+CUST-10089,Starter,80.4,21,Manufacturing,Europe,Paid Search,12,False
+CUST-10090,Starter,86.87,6,Healthcare,LATAM,Outbound Sales,8,False
+CUST-10091,Growth,393.73,22,Education,North America,Inbound/Organic,26,False
+CUST-10092,Starter,129.3,16,Education,Europe,Partner/Referral,107,False
+CUST-10093,Growth,788.72,14,Media,Europe,Partner/Referral,5,True
+CUST-10094,Starter,103.46,1,Healthcare,North America,Product-Led Trial,42,True
+CUST-10095,Starter,103.8,15,FinTech,APAC,Inbound/Organic,19,True
+CUST-10096,Growth,527.91,3,Media,North America,Paid Search,58,True
+CUST-10097,Enterprise,4435.24,5,Healthcare,APAC,Paid Search,28,True
+CUST-10098,Growth,656.72,18,Education,APAC,Paid Search,10,False
+CUST-10099,Starter,66.23,13,Media,North America,Outbound Sales,3,False
+CUST-10100,Starter,138.08,5,E-commerce,Europe,Product-Led Trial,74,False
+CUST-10101,Growth,807.42,10,Professional Services,Europe,Outbound Sales,13,False
+CUST-10102,Enterprise,6814.34,11,E-commerce,North America,Outbound Sales,26,True
+CUST-10103,Growth,872.62,7,Healthcare,APAC,Partner/Referral,20,False
+CUST-10104,Starter,171.19,13,E-commerce,LATAM,Inbound/Organic,18,False
+CUST-10105,Starter,105.54,18,Education,North America,Inbound/Organic,69,False
+CUST-10106,Enterprise,3687.24,13,Education,LATAM,Outbound Sales,2,True
+CUST-10107,Starter,158.58,9,Media,North America,Product-Led Trial,118,False
+CUST-10108,Growth,657.95,5,SaaS/Tech,North America,Product-Led Trial,14,False
+CUST-10109,Growth,594.69,9,SaaS/Tech,North America,Product-Led Trial,37,True
+CUST-10110,Enterprise,1892.42,14,Education,Europe,Product-Led Trial,56,True
+CUST-10111,Growth,712.28,18,FinTech,Europe,Outbound Sales,8,False
+CUST-10112,Enterprise,7713.52,7,Manufacturing,North America,Paid Search,29,True
+CUST-10113,Growth,214.47,10,FinTech,North America,Partner/Referral,449,False
+CUST-10114,Starter,146.71,16,FinTech,North America,Inbound/Organic,141,False
+CUST-10115,Enterprise,4155.88,13,Education,MEA,Partner/Referral,13,True
+CUST-10116,Starter,187.13,21,Professional Services,North America,Product-Led Trial,114,False
+CUST-10117,Growth,682.37,2,Professional Services,Europe,Paid Search,11,False
+CUST-10118,Starter,101.04,1,Healthcare,Europe,Outbound Sales,41,False
+CUST-10119,Starter,95.72,10,Manufacturing,North America,Paid Search,4,False
+CUST-10120,Starter,193.16,16,FinTech,Europe,Partner/Referral,5,False
+CUST-10121,Starter,108.6,18,Healthcare,APAC,Product-Led Trial,28,False
+CUST-10122,Starter,174.48,18,E-commerce,North America,Outbound Sales,113,False
+CUST-10123,Starter,132.95,3,SaaS/Tech,North America,Outbound Sales,2,False
+CUST-10124,Starter,145.6,0,Professional Services,MEA,Paid Search,18,False
+CUST-10125,Starter,78.42,7,Manufacturing,North America,Product-Led Trial,75,False
+CUST-10126,Growth,390.31,1,Healthcare,North America,Outbound Sales,18,False
+CUST-10127,Starter,143.99,0,Professional Services,APAC,Product-Led Trial,7,False
+CUST-10128,Growth,762.45,0,Professional Services,Europe,Outbound Sales,11,False
+CUST-10129,Starter,142.62,5,Media,Europe,Paid Search,5,False
+CUST-10130,Starter,195.18,11,Media,North America,Outbound Sales,27,False
+CUST-10131,Starter,89.3,7,E-commerce,Europe,Inbound/Organic,28,True
+CUST-10132,Enterprise,7890.82,12,E-commerce,North America,Outbound Sales,28,True
+CUST-10133,Enterprise,4486.64,1,SaaS/Tech,Europe,Paid Search,103,True
+CUST-10134,Growth,285.16,21,Education,North America,Outbound Sales,145,False
+CUST-10135,Starter,186.16,20,FinTech,APAC,Paid Search,138,False
+CUST-10136,Growth,266.16,3,Healthcare,North America,Product-Led Trial,19,False
+CUST-10137,Growth,687.71,21,E-commerce,North America,Product-Led Trial,92,False
+CUST-10138,Starter,129.98,18,Healthcare,APAC,Inbound/Organic,409,False
+CUST-10139,Growth,285.17,8,Media,APAC,Inbound/Organic,22,False
+CUST-10140,Growth,567.29,2,Healthcare,North America,Partner/Referral,7,False
+CUST-10141,Starter,62.74,16,Education,APAC,Inbound/Organic,68,False
+CUST-10142,Starter,130.29,18,Media,Europe,Inbound/Organic,100,False
+CUST-10143,Starter,122.41,14,Healthcare,MEA,Product-Led Trial,78,False
+CUST-10144,Starter,137.24,16,Professional Services,Europe,Paid Search,10,False
+CUST-10145,Starter,66.29,22,Education,Europe,Partner/Referral,16,False
+CUST-10146,Starter,173.34,16,Manufacturing,Europe,Outbound Sales,9,False
+CUST-10147,Growth,552.38,22,FinTech,Europe,Inbound/Organic,500,False
+CUST-10148,Growth,789.55,0,Media,Europe,Partner/Referral,26,False
+CUST-10149,Growth,997.35,19,Education,APAC,Product-Led Trial,79,True
+CUST-10150,Growth,664.03,11,Professional Services,North America,Inbound/Organic,33,False
+CUST-10151,Starter,119.1,17,FinTech,APAC,Product-Led Trial,2,True
+CUST-10152,Starter,197.16,8,Professional Services,North America,Partner/Referral,72,False
+CUST-10153,Growth,690.12,6,FinTech,North America,Partner/Referral,19,False
+CUST-10154,Starter,173.6,13,E-commerce,North America,Inbound/Organic,12,False
+CUST-10155,Starter,57.68,14,Professional Services,LATAM,Outbound Sales,13,False
+CUST-10156,Growth,407.93,2,E-commerce,Europe,Inbound/Organic,35,False
+CUST-10157,Starter,129.55,8,FinTech,Europe,Paid Search,16,False
+CUST-10158,Starter,89.94,8,Healthcare,MEA,Partner/Referral,22,False
+CUST-10159,Growth,424.83,14,Manufacturing,North America,Product-Led Trial,19,True
+CUST-10160,Growth,968.74,15,Education,LATAM,Product-Led Trial,24,False
+CUST-10161,Growth,858.92,7,E-commerce,Europe,Product-Led Trial,90,False
+CUST-10162,Enterprise,6581.98,7,FinTech,APAC,Outbound Sales,14,True
+CUST-10163,Starter,188.51,3,Professional Services,APAC,Partner/Referral,8,False
+CUST-10164,Enterprise,7102.9,18,Professional Services,APAC,Paid Search,13,True
+CUST-10165,Enterprise,1007.84,1,Manufacturing,APAC,Partner/Referral,49,True
+CUST-10166,Starter,92.06,13,Healthcare,MEA,Inbound/Organic,17,True
+CUST-10167,Enterprise,1899.14,18,Manufacturing,North America,Inbound/Organic,9,True
+CUST-10168,Enterprise,3393.11,14,Manufacturing,APAC,Partner/Referral,43,True
+CUST-10169,Enterprise,2164.64,11,Manufacturing,APAC,Inbound/Organic,12,True
+CUST-10170,Starter,60.2,17,E-commerce,MEA,Product-Led Trial,226,False
+CUST-10171,Starter,58.84,0,Manufacturing,North America,Outbound Sales,10,False
+CUST-10172,Starter,72.84,1,Education,LATAM,Outbound Sales,6,False
+CUST-10173,Growth,376.39,1,Professional Services,APAC,Outbound Sales,20,False
+CUST-10174,Enterprise,2057.41,20,Professional Services,Europe,Outbound Sales,3,True
+CUST-10175,Starter,157.66,1,Education,North America,Inbound/Organic,13,False
+CUST-10176,Starter,178.65,15,Healthcare,MEA,Inbound/Organic,35,False
+CUST-10177,Enterprise,6327.17,2,Education,North America,Product-Led Trial,40,True
+CUST-10178,Enterprise,7772.58,19,Manufacturing,Europe,Inbound/Organic,5,True
+CUST-10179,Growth,380.21,21,Manufacturing,North America,Paid Search,47,False
+CUST-10180,Starter,117.28,7,Education,North America,Paid Search,372,False
+CUST-10181,Growth,887.24,5,SaaS/Tech,North America,Outbound Sales,14,True
+CUST-10182,Starter,197.0,14,Media,Europe,Partner/Referral,43,True
+CUST-10183,Starter,126.66,0,SaaS/Tech,North America,Inbound/Organic,174,False
+CUST-10184,Starter,97.31,5,Professional Services,North America,Paid Search,13,False
+CUST-10185,Starter,144.46,2,Healthcare,North America,Inbound/Organic,46,True
+CUST-10186,Growth,766.54,7,Media,APAC,Partner/Referral,77,True
+CUST-10187,Enterprise,4833.15,21,E-commerce,Europe,Inbound/Organic,13,True
+CUST-10188,Starter,114.79,17,Manufacturing,Europe,Partner/Referral,7,False
+CUST-10189,Growth,598.06,17,Manufacturing,APAC,Product-Led Trial,13,False
+CUST-10190,Enterprise,5552.28,9,Healthcare,APAC,Product-Led Trial,5,True
+CUST-10191,Enterprise,2219.35,20,Professional Services,Europe,Partner/Referral,16,True
+CUST-10192,Growth,787.54,19,FinTech,North America,Inbound/Organic,425,True
+CUST-10193,Starter,139.93,14,E-commerce,APAC,Paid Search,38,False
+CUST-10194,Starter,102.87,2,Education,Europe,Product-Led Trial,12,False
+CUST-10195,Enterprise,2257.78,11,Manufacturing,MEA,Product-Led Trial,37,True
+CUST-10196,Enterprise,4445.94,21,FinTech,Europe,Inbound/Organic,11,True
+CUST-10197,Growth,449.41,1,Healthcare,Europe,Inbound/Organic,33,False
+CUST-10198,Starter,194.47,14,Professional Services,North America,Outbound Sales,2,False
+CUST-10199,Growth,316.46,4,FinTech,Europe,Partner/Referral,11,False
+CUST-10200,Starter,74.14,10,Education,North America,Partner/Referral,93,False
+CUST-10201,Growth,893.75,11,Healthcare,North America,Paid Search,22,False
+CUST-10202,Starter,83.67,0,Professional Services,North America,Product-Led Trial,19,False
+CUST-10203,Starter,71.25,20,E-commerce,MEA,Outbound Sales,40,True
+CUST-10204,Starter,194.96,6,Professional Services,North America,Outbound Sales,244,True
+CUST-10205,Starter,95.19,15,E-commerce,North America,Paid Search,21,False
+CUST-10206,Growth,324.77,5,Education,MEA,Paid Search,21,False
+CUST-10207,Enterprise,7052.26,16,FinTech,North America,Inbound/Organic,23,True
+CUST-10208,Growth,740.53,18,Professional Services,Europe,Product-Led Trial,61,False
+CUST-10209,Starter,139.74,8,SaaS/Tech,Europe,Product-Led Trial,180,False
+CUST-10210,Growth,790.02,3,E-commerce,Europe,Partner/Referral,77,False
+CUST-10211,Growth,548.03,10,SaaS/Tech,North America,Inbound/Organic,45,False
+CUST-10212,Growth,687.26,14,Education,North America,Product-Led Trial,4,False
+CUST-10213,Starter,59.98,2,Media,Europe,Paid Search,17,False
+CUST-10214,Growth,633.35,7,Media,APAC,Partner/Referral,5,False
+CUST-10215,Growth,685.72,15,Professional Services,APAC,Paid Search,4,False
+CUST-10216,Growth,857.09,10,Professional Services,LATAM,Product-Led Trial,18,False
+CUST-10217,Starter,189.17,21,Healthcare,North America,Product-Led Trial,37,False
+CUST-10218,Growth,735.41,14,FinTech,Europe,Paid Search,129,False
+CUST-10219,Starter,67.28,10,Professional Services,APAC,Paid Search,57,False
+CUST-10220,Starter,93.29,16,E-commerce,North America,Partner/Referral,9,False
+CUST-10221,Starter,127.97,14,Healthcare,North America,Product-Led Trial,20,False
+CUST-10222,Starter,80.81,9,Media,Europe,Product-Led Trial,29,False
+CUST-10223,Starter,94.31,18,FinTech,Europe,Paid Search,32,False
+CUST-10224,Growth,319.61,22,E-commerce,North America,Inbound/Organic,49,False
+CUST-10225,Starter,52.55,14,Healthcare,Europe,Outbound Sales,38,False
+CUST-10226,Starter,138.17,1,Media,North America,Product-Led Trial,12,False
+CUST-10227,Growth,212.64,13,Healthcare,Europe,Paid Search,197,False
+CUST-10228,Growth,411.65,4,SaaS/Tech,Europe,Inbound/Organic,7,False
+CUST-10229,Starter,126.86,1,FinTech,APAC,Outbound Sales,11,False
+CUST-10230,Starter,137.92,2,Manufacturing,North America,Paid Search,94,False
+CUST-10231,Growth,645.67,1,Professional Services,Europe,Partner/Referral,6,True
+CUST-10232,Enterprise,5444.72,14,SaaS/Tech,North America,Paid Search,21,True
+CUST-10233,Growth,477.71,11,Media,APAC,Product-Led Trial,9,True
+CUST-10234,Enterprise,1140.18,19,Media,APAC,Inbound/Organic,26,True
+CUST-10235,Growth,271.21,6,Media,North America,Partner/Referral,94,False
+CUST-10236,Growth,228.89,0,Professional Services,North America,Paid Search,4,False
+CUST-10237,Growth,859.4,22,E-commerce,Europe,Outbound Sales,6,False
+CUST-10238,Growth,652.69,19,E-commerce,Europe,Inbound/Organic,26,False
+CUST-10239,Enterprise,7076.4,5,Healthcare,APAC,Partner/Referral,22,True
+CUST-10240,Enterprise,3257.7,2,E-commerce,North America,Outbound Sales,25,True
+CUST-10241,Growth,857.16,21,SaaS/Tech,LATAM,Inbound/Organic,24,False
+CUST-10242,Growth,339.7,2,Healthcare,North America,Inbound/Organic,10,False
+CUST-10243,Growth,385.81,12,FinTech,APAC,Partner/Referral,36,False
+CUST-10244,Growth,551.17,5,Media,North America,Paid Search,8,True
+CUST-10245,Growth,567.38,1,Manufacturing,MEA,Product-Led Trial,38,False
+CUST-10246,Starter,113.55,8,Healthcare,North America,Partner/Referral,12,False
+CUST-10247,Starter,125.41,6,Media,APAC,Partner/Referral,17,False
+CUST-10248,Growth,621.11,6,E-commerce,North America,Partner/Referral,161,False
+CUST-10249,Growth,584.83,6,Education,North America,Product-Led Trial,7,True
+CUST-10250,Starter,121.2,21,Manufacturing,North America,Paid Search,8,False
+CUST-10251,Starter,174.15,12,Education,North America,Product-Led Trial,46,False
+CUST-10252,Growth,287.68,10,Professional Services,Europe,Product-Led Trial,6,False
+CUST-10253,Growth,580.34,8,Education,North America,Paid Search,23,False
+CUST-10254,Enterprise,7687.34,16,Media,North America,Inbound/Organic,35,True
+CUST-10255,Starter,166.18,10,Professional Services,Europe,Outbound Sales,20,False
+CUST-10256,Starter,182.41,22,Media,LATAM,Product-Led Trial,27,False
+CUST-10257,Starter,61.72,10,SaaS/Tech,North America,Outbound Sales,163,True
+CUST-10258,Enterprise,6162.56,13,FinTech,North America,Outbound Sales,7,True
+CUST-10259,Starter,63.76,21,Media,North America,Paid Search,44,True
+CUST-10260,Starter,194.18,7,Media,North America,Inbound/Organic,6,True
+CUST-10261,Growth,818.93,8,SaaS/Tech,Europe,Paid Search,14,False
+CUST-10262,Starter,120.15,1,Manufacturing,Europe,Partner/Referral,31,True
+CUST-10263,Starter,131.51,17,Manufacturing,North America,Partner/Referral,9,True
+CUST-10264,Starter,182.04,20,Healthcare,Europe,Inbound/Organic,34,False
+CUST-10265,Starter,195.76,13,Media,Europe,Partner/Referral,3,True
+CUST-10266,Starter,161.98,21,FinTech,North America,Paid Search,34,True
+CUST-10267,Enterprise,4418.76,22,Media,North America,Outbound Sales,11,True
+CUST-10268,Growth,794.0,2,Professional Services,North America,Product-Led Trial,29,False
+CUST-10269,Starter,73.13,15,Media,North America,Product-Led Trial,9,False
+CUST-10270,Starter,78.09,9,E-commerce,North America,Paid Search,56,False
+CUST-10271,Growth,499.83,8,FinTech,Europe,Paid Search,46,False
+CUST-10272,Starter,160.86,13,SaaS/Tech,MEA,Inbound/Organic,84,False
+CUST-10273,Growth,601.14,3,Professional Services,Europe,Partner/Referral,58,False
+CUST-10274,Starter,69.67,5,Education,North America,Product-Led Trial,15,False
+CUST-10275,Enterprise,4570.77,2,Media,North America,Paid Search,6,True
+CUST-10276,Growth,647.97,1,Manufacturing,APAC,Partner/Referral,24,True
+CUST-10277,Starter,99.14,5,Education,APAC,Outbound Sales,103,False
+CUST-10278,Starter,98.23,22,SaaS/Tech,North America,Partner/Referral,57,False
+CUST-10279,Starter,144.63,19,Media,North America,Partner/Referral,64,False
+CUST-10280,Growth,669.63,19,Education,MEA,Outbound Sales,13,False
+CUST-10281,Starter,190.1,9,Healthcare,Europe,Outbound Sales,57,False
+CUST-10282,Growth,584.24,20,E-commerce,LATAM,Partner/Referral,23,False
+CUST-10283,Growth,811.64,21,Manufacturing,Europe,Partner/Referral,172,False
+CUST-10284,Enterprise,4304.42,20,Manufacturing,North America,Paid Search,8,True
+CUST-10285,Starter,184.94,9,Media,North America,Paid Search,9,False
+CUST-10286,Starter,72.46,3,Media,North America,Paid Search,2,False
+CUST-10287,Enterprise,1152.76,10,FinTech,North America,Product-Led Trial,64,True
+CUST-10288,Starter,111.82,13,SaaS/Tech,Europe,Product-Led Trial,58,False
+CUST-10289,Growth,570.68,20,Media,MEA,Product-Led Trial,6,True
+CUST-10290,Starter,82.8,9,SaaS/Tech,APAC,Inbound/Organic,8,False
+CUST-10291,Growth,254.07,21,SaaS/Tech,Europe,Paid Search,26,False
+CUST-10292,Starter,190.85,15,SaaS/Tech,Europe,Paid Search,21,False
+CUST-10293,Starter,167.05,5,FinTech,North America,Outbound Sales,84,True
+CUST-10294,Growth,360.89,6,Education,North America,Partner/Referral,28,False
+CUST-10295,Enterprise,7157.07,13,Healthcare,LATAM,Paid Search,146,True
+CUST-10296,Growth,645.83,1,SaaS/Tech,North America,Outbound Sales,26,False
+CUST-10297,Starter,147.52,17,Healthcare,APAC,Outbound Sales,64,False
+CUST-10298,Starter,63.11,8,FinTech,North America,Inbound/Organic,56,False
+CUST-10299,Starter,153.38,11,E-commerce,North America,Outbound Sales,19,False
+CUST-10300,Enterprise,2181.98,5,SaaS/Tech,Europe,Product-Led Trial,57,True
+CUST-10301,Starter,168.79,13,Manufacturing,APAC,Inbound/Organic,45,False
+CUST-10302,Growth,972.73,12,Professional Services,North America,Product-Led Trial,37,True
+CUST-10303,Starter,172.44,4,Healthcare,North America,Product-Led Trial,10,False
+CUST-10304,Enterprise,1775.24,11,SaaS/Tech,Europe,Partner/Referral,2,True
+CUST-10305,Growth,861.77,15,Education,North America,Paid Search,12,True
+CUST-10306,Starter,70.3,8,Healthcare,Europe,Paid Search,6,False
+CUST-10307,Growth,844.15,14,Healthcare,Europe,Partner/Referral,225,False
+CUST-10308,Starter,96.24,14,Professional Services,North America,Partner/Referral,46,False
+CUST-10309,Growth,754.63,14,Manufacturing,North America,Product-Led Trial,14,True
+CUST-10310,Starter,146.97,13,FinTech,LATAM,Inbound/Organic,49,False
+CUST-10311,Enterprise,5695.13,22,Healthcare,North America,Partner/Referral,83,True
+CUST-10312,Starter,68.33,18,Manufacturing,APAC,Outbound Sales,13,False
+CUST-10313,Enterprise,2960.26,15,SaaS/Tech,North America,Outbound Sales,22,True
+CUST-10314,Enterprise,5895.21,19,Education,MEA,Inbound/Organic,65,True
+CUST-10315,Starter,179.91,13,Media,APAC,Product-Led Trial,13,True
+CUST-10316,Starter,55.92,0,Media,North America,Outbound Sales,50,True
+CUST-10317,Enterprise,7140.83,13,Manufacturing,LATAM,Product-Led Trial,131,True
+CUST-10318,Enterprise,2997.03,11,Healthcare,North America,Paid Search,189,True
+CUST-10319,Starter,82.03,11,SaaS/Tech,APAC,Inbound/Organic,63,False
+CUST-10320,Growth,862.6,0,Media,Europe,Partner/Referral,22,True
+CUST-10321,Starter,73.72,21,Media,LATAM,Partner/Referral,64,False
+CUST-10322,Growth,740.46,3,Manufacturing,APAC,Outbound Sales,39,False
+CUST-10323,Growth,604.51,22,Manufacturing,North America,Inbound/Organic,28,True
+CUST-10324,Starter,139.61,7,Healthcare,North America,Inbound/Organic,5,False
+CUST-10325,Growth,557.53,19,Media,Europe,Product-Led Trial,2,True
+CUST-10326,Starter,81.86,10,FinTech,North America,Paid Search,2,False
+CUST-10327,Starter,55.66,8,SaaS/Tech,APAC,Inbound/Organic,5,False
+CUST-10328,Starter,100.78,6,Professional Services,LATAM,Product-Led Trial,17,False
+CUST-10329,Enterprise,2156.43,7,FinTech,APAC,Product-Led Trial,27,True
+CUST-10330,Growth,685.72,15,SaaS/Tech,APAC,Partner/Referral,14,False
+CUST-10331,Starter,139.57,17,E-commerce,North America,Inbound/Organic,28,False
+CUST-10332,Starter,67.15,7,FinTech,LATAM,Partner/Referral,19,False
+CUST-10333,Growth,742.26,1,Healthcare,Europe,Paid Search,12,False
+CUST-10334,Starter,66.36,6,FinTech,North America,Outbound Sales,30,False
+CUST-10335,Enterprise,6740.09,8,Manufacturing,Europe,Outbound Sales,156,True
+CUST-10336,Growth,661.18,4,Education,APAC,Inbound/Organic,62,False
+CUST-10337,Growth,543.51,2,Education,North America,Product-Led Trial,101,False
+CUST-10338,Growth,380.8,2,Healthcare,APAC,Inbound/Organic,3,False
+CUST-10339,Starter,139.16,3,FinTech,APAC,Paid Search,11,False
+CUST-10340,Starter,70.39,0,SaaS/Tech,LATAM,Outbound Sales,25,False
+CUST-10341,Starter,59.76,10,SaaS/Tech,North America,Product-Led Trial,20,False
+CUST-10342,Enterprise,5061.55,5,SaaS/Tech,North America,Inbound/Organic,23,True
+CUST-10343,Starter,124.82,10,Education,North America,Outbound Sales,6,False
+CUST-10344,Enterprise,3899.05,18,E-commerce,North America,Product-Led Trial,3,True
+CUST-10345,Enterprise,1812.97,9,FinTech,North America,Partner/Referral,16,True
+CUST-10346,Enterprise,4817.67,12,Healthcare,MEA,Partner/Referral,444,True
+CUST-10347,Starter,86.04,22,Healthcare,North America,Paid Search,3,False
+CUST-10348,Starter,57.65,13,Professional Services,North America,Partner/Referral,29,False
+CUST-10349,Growth,998.77,12,Professional Services,APAC,Partner/Referral,98,False
+CUST-10350,Enterprise,7162.2,7,Manufacturing,Europe,Paid Search,162,True
+CUST-10351,Starter,176.88,4,FinTech,LATAM,Outbound Sales,17,False
+CUST-10352,Growth,626.18,11,Manufacturing,North America,Outbound Sales,11,False
+CUST-10353,Growth,227.53,5,SaaS/Tech,LATAM,Paid Search,26,False
+CUST-10354,Growth,889.97,22,E-commerce,Europe,Outbound Sales,49,False
+CUST-10355,Growth,593.37,17,SaaS/Tech,LATAM,Outbound Sales,11,False
+CUST-10356,Enterprise,6351.69,3,Professional Services,MEA,Inbound/Organic,5,True
+CUST-10357,Starter,95.78,2,Healthcare,North America,Product-Led Trial,70,False
+CUST-10358,Starter,120.53,21,Healthcare,LATAM,Paid Search,15,False
+CUST-10359,Enterprise,2951.32,14,Healthcare,MEA,Paid Search,10,True
+CUST-10360,Enterprise,3062.34,6,Healthcare,APAC,Inbound/Organic,12,True
+CUST-10361,Starter,189.56,8,Professional Services,LATAM,Outbound Sales,30,False
+CUST-10362,Starter,122.14,13,Manufacturing,Europe,Outbound Sales,10,False
+CUST-10363,Enterprise,1506.22,18,Healthcare,LATAM,Paid Search,17,True
+CUST-10364,Starter,124.09,9,FinTech,APAC,Partner/Referral,40,False
+CUST-10365,Starter,178.51,2,Media,North America,Outbound Sales,10,True
+CUST-10366,Growth,872.94,16,SaaS/Tech,North America,Product-Led Trial,3,False
+CUST-10367,Starter,182.3,22,Media,Europe,Paid Search,92,False
+CUST-10368,Growth,709.04,17,Manufacturing,Europe,Partner/Referral,7,False
+CUST-10369,Starter,186.52,7,E-commerce,Europe,Paid Search,8,True
+CUST-10370,Growth,243.41,11,SaaS/Tech,North America,Inbound/Organic,12,False
+CUST-10371,Growth,250.09,17,Media,North America,Product-Led Trial,24,False
+CUST-10372,Starter,188.63,0,Healthcare,North America,Outbound Sales,30,False
+CUST-10373,Enterprise,3956.69,5,Media,LATAM,Outbound Sales,78,True
+CUST-10374,Starter,152.05,0,FinTech,Europe,Paid Search,15,False
+CUST-10375,Starter,90.77,10,SaaS/Tech,Europe,Inbound/Organic,12,False
+CUST-10376,Starter,166.27,11,Education,North America,Product-Led Trial,2,False
+CUST-10377,Growth,288.67,13,Healthcare,North America,Partner/Referral,23,False
+CUST-10378,Starter,131.81,3,Professional Services,APAC,Inbound/Organic,16,False
+CUST-10379,Starter,150.67,12,Education,North America,Partner/Referral,248,False
+CUST-10380,Starter,145.72,20,FinTech,APAC,Inbound/Organic,17,False
+CUST-10381,Starter,65.73,9,Education,North America,Product-Led Trial,47,False
+CUST-10382,Starter,185.66,1,Manufacturing,APAC,Paid Search,50,False
+CUST-10383,Growth,901.24,5,SaaS/Tech,North America,Partner/Referral,18,False
+CUST-10384,Starter,68.73,11,Healthcare,Europe,Paid Search,51,True
+CUST-10385,Starter,51.63,20,SaaS/Tech,APAC,Paid Search,47,False
+CUST-10386,Growth,655.95,15,Healthcare,Europe,Product-Led Trial,51,False
+CUST-10387,Starter,94.44,2,Education,North America,Paid Search,51,False
+CUST-10388,Growth,247.71,11,E-commerce,Europe,Inbound/Organic,30,False
+CUST-10389,Growth,648.47,21,SaaS/Tech,North America,Paid Search,4,False
+CUST-10390,Starter,142.36,9,Healthcare,Europe,Outbound Sales,25,False
+CUST-10391,Starter,145.42,0,SaaS/Tech,LATAM,Partner/Referral,37,False
+CUST-10392,Starter,152.5,16,E-commerce,North America,Partner/Referral,3,False
+CUST-10393,Starter,191.36,13,Education,Europe,Paid Search,11,False
+CUST-10394,Starter,117.79,2,Manufacturing,LATAM,Partner/Referral,34,True
+CUST-10395,Enterprise,4690.63,11,Manufacturing,North America,Partner/Referral,52,True
+CUST-10396,Enterprise,7963.74,11,Healthcare,Europe,Paid Search,11,True
+CUST-10397,Growth,983.96,3,FinTech,APAC,Outbound Sales,29,False
+CUST-10398,Growth,515.77,15,E-commerce,MEA,Product-Led Trial,38,False
+CUST-10399,Starter,117.74,16,Healthcare,MEA,Paid Search,43,False
+CUST-10400,Growth,209.67,9,FinTech,North America,Partner/Referral,48,False
+CUST-10401,Starter,176.21,7,Media,North America,Product-Led Trial,6,False
+CUST-10402,Starter,183.2,12,E-commerce,LATAM,Outbound Sales,24,False
+CUST-10403,Growth,707.72,19,Education,North America,Outbound Sales,48,False
+CUST-10404,Growth,485.34,17,Education,North America,Partner/Referral,3,False
+CUST-10405,Enterprise,7141.49,19,FinTech,North America,Outbound Sales,144,True
+CUST-10406,Starter,54.84,0,SaaS/Tech,North America,Product-Led Trial,16,False
+CUST-10407,Growth,541.57,11,E-commerce,APAC,Product-Led Trial,4,False
+CUST-10408,Enterprise,7625.2,7,Education,Europe,Partner/Referral,5,True
+CUST-10409,Starter,93.35,15,Professional Services,North America,Inbound/Organic,31,False
+CUST-10410,Starter,180.92,0,Healthcare,North America,Outbound Sales,14,False
+CUST-10411,Growth,723.07,2,E-commerce,LATAM,Product-Led Trial,70,False
+CUST-10412,Starter,54.64,20,Manufacturing,Europe,Product-Led Trial,52,True
+CUST-10413,Enterprise,2582.88,5,Education,North America,Outbound Sales,2,True
+CUST-10414,Enterprise,1363.31,3,FinTech,North America,Outbound Sales,93,True
+CUST-10415,Enterprise,3958.4,17,Manufacturing,North America,Inbound/Organic,60,True
+CUST-10416,Starter,89.72,15,Healthcare,MEA,Partner/Referral,122,False
+CUST-10417,Starter,130.67,9,Media,North America,Inbound/Organic,3,False
+CUST-10418,Growth,585.01,16,FinTech,LATAM,Inbound/Organic,29,False
+CUST-10419,Growth,337.5,16,SaaS/Tech,Europe,Paid Search,7,False
+CUST-10420,Growth,568.91,0,Professional Services,APAC,Product-Led Trial,15,False
+CUST-10421,Starter,100.8,5,FinTech,MEA,Outbound Sales,51,True
+CUST-10422,Growth,736.17,12,Professional Services,Europe,Inbound/Organic,7,False
+CUST-10423,Growth,507.1,18,Healthcare,APAC,Paid Search,16,False
+CUST-10424,Enterprise,1682.6,18,Manufacturing,Europe,Inbound/Organic,2,True
+CUST-10425,Starter,121.34,7,Education,MEA,Outbound Sales,108,False
+CUST-10426,Starter,180.9,19,Professional Services,North America,Paid Search,37,False
+CUST-10427,Starter,142.73,2,E-commerce,APAC,Outbound Sales,59,False
+CUST-10428,Starter,73.42,0,SaaS/Tech,North America,Product-Led Trial,7,False
+CUST-10429,Starter,158.9,13,Education,North America,Outbound Sales,5,False
+CUST-10430,Starter,99.02,21,Education,North America,Partner/Referral,13,False
+CUST-10431,Growth,680.28,19,Education,North America,Paid Search,35,False
+CUST-10432,Starter,116.52,9,SaaS/Tech,North America,Paid Search,19,False
+CUST-10433,Growth,537.76,16,FinTech,North America,Outbound Sales,8,False
+CUST-10434,Growth,414.56,9,Manufacturing,MEA,Outbound Sales,6,False
+CUST-10435,Starter,113.56,19,FinTech,Europe,Outbound Sales,35,False
+CUST-10436,Starter,51.27,2,Manufacturing,North America,Paid Search,209,False
+CUST-10437,Growth,399.37,1,Education,North America,Outbound Sales,13,True
+CUST-10438,Starter,190.71,21,Healthcare,LATAM,Outbound Sales,47,False
+CUST-10439,Starter,143.12,12,FinTech,LATAM,Inbound/Organic,102,False
+CUST-10440,Enterprise,3793.25,12,Manufacturing,North America,Inbound/Organic,159,True
+CUST-10441,Starter,182.51,20,Professional Services,APAC,Partner/Referral,24,False
+CUST-10442,Growth,207.23,16,Healthcare,Europe,Paid Search,8,False
+CUST-10443,Enterprise,1350.13,19,Professional Services,North America,Inbound/Organic,50,True
+CUST-10444,Starter,89.62,15,E-commerce,North America,Product-Led Trial,5,False
+CUST-10445,Growth,497.39,22,E-commerce,LATAM,Outbound Sales,16,False
+CUST-10446,Starter,167.02,2,E-commerce,Europe,Outbound Sales,10,False
+CUST-10447,Enterprise,5091.14,6,SaaS/Tech,LATAM,Inbound/Organic,25,True
+CUST-10448,Enterprise,5665.24,20,E-commerce,Europe,Outbound Sales,78,True
+CUST-10449,Growth,627.49,10,Education,APAC,Paid Search,39,False
+CUST-10450,Starter,115.59,12,FinTech,Europe,Product-Led Trial,14,False
+CUST-10451,Starter,155.94,5,E-commerce,Europe,Product-Led Trial,23,False
+CUST-10452,Starter,76.85,20,E-commerce,LATAM,Product-Led Trial,19,False
+CUST-10453,Starter,187.68,9,Professional Services,North America,Product-Led Trial,98,False
+CUST-10454,Enterprise,6525.05,22,Manufacturing,LATAM,Product-Led Trial,6,True
+CUST-10455,Growth,951.96,0,SaaS/Tech,North America,Inbound/Organic,5,True
+CUST-10456,Enterprise,3442.23,8,Manufacturing,APAC,Inbound/Organic,14,True
+CUST-10457,Starter,50.99,8,Education,Europe,Product-Led Trial,2,False
+CUST-10458,Starter,122.41,12,SaaS/Tech,APAC,Product-Led Trial,71,False
+CUST-10459,Starter,61.53,16,Manufacturing,North America,Paid Search,67,False
+CUST-10460,Starter,144.2,18,FinTech,North America,Paid Search,5,True
+CUST-10461,Starter,84.13,14,Manufacturing,MEA,Outbound Sales,47,False
+CUST-10462,Starter,113.34,18,Healthcare,APAC,Paid Search,24,False
+CUST-10463,Enterprise,5419.93,15,Professional Services,North America,Inbound/Organic,5,True
+CUST-10464,Growth,945.57,6,Media,MEA,Inbound/Organic,14,False
+CUST-10465,Starter,125.17,20,SaaS/Tech,North America,Inbound/Organic,5,False
+CUST-10466,Growth,526.09,20,Healthcare,APAC,Partner/Referral,36,False
+CUST-10467,Growth,571.58,21,Media,North America,Partner/Referral,46,False
+CUST-10468,Growth,560.58,18,Healthcare,APAC,Product-Led Trial,17,False
+CUST-10469,Growth,212.39,15,E-commerce,North America,Partner/Referral,24,False
+CUST-10470,Growth,877.49,19,SaaS/Tech,MEA,Paid Search,91,False
+CUST-10471,Enterprise,4913.41,2,Healthcare,North America,Outbound Sales,14,True
+CUST-10472,Growth,499.21,19,Healthcare,Europe,Outbound Sales,20,False
+CUST-10473,Enterprise,3612.69,1,Education,North America,Inbound/Organic,50,True
+CUST-10474,Growth,540.43,4,Media,APAC,Paid Search,51,False
+CUST-10475,Growth,477.22,5,Education,North America,Outbound Sales,8,False
+CUST-10476,Growth,881.22,20,Manufacturing,APAC,Partner/Referral,179,False
+CUST-10477,Starter,96.07,7,Education,North America,Partner/Referral,19,False
+CUST-10478,Growth,645.78,1,E-commerce,North America,Paid Search,45,False
+CUST-10479,Growth,626.07,2,Manufacturing,APAC,Product-Led Trial,22,False
+CUST-10480,Starter,77.64,13,Education,Europe,Paid Search,77,False
+CUST-10481,Growth,349.99,19,E-commerce,APAC,Partner/Referral,44,False
+CUST-10482,Starter,118.6,21,Manufacturing,Europe,Outbound Sales,40,False
+CUST-10483,Growth,542.76,13,Healthcare,Europe,Product-Led Trial,83,False
+CUST-10484,Growth,275.37,7,Healthcare,APAC,Product-Led Trial,56,False
+CUST-10485,Enterprise,2690.48,14,Media,Europe,Inbound/Organic,48,True
+CUST-10486,Enterprise,7241.98,20,Healthcare,Europe,Partner/Referral,6,True
+CUST-10487,Starter,163.65,17,SaaS/Tech,APAC,Outbound Sales,52,True
+CUST-10488,Enterprise,3903.71,9,Healthcare,Europe,Product-Led Trial,107,True
+CUST-10489,Growth,310.61,19,Media,Europe,Outbound Sales,59,False
+CUST-10490,Starter,128.15,4,Healthcare,Europe,Paid Search,83,False
+CUST-10491,Growth,242.63,10,Education,Europe,Paid Search,44,True
+CUST-10492,Enterprise,5421.5,22,SaaS/Tech,Europe,Inbound/Organic,5,True
+CUST-10493,Starter,144.39,3,SaaS/Tech,North America,Partner/Referral,63,True
+CUST-10494,Growth,561.88,13,Manufacturing,North America,Paid Search,43,False
+CUST-10495,Enterprise,6619.68,5,Healthcare,Europe,Paid Search,106,True
+CUST-10496,Starter,72.05,4,SaaS/Tech,North America,Partner/Referral,29,True
+CUST-10497,Growth,761.41,7,E-commerce,North America,Partner/Referral,17,False
+CUST-10498,Enterprise,5613.32,6,Media,LATAM,Outbound Sales,9,True
+CUST-10499,Enterprise,7980.67,19,Education,LATAM,Inbound/Organic,73,True
+CUST-10500,Growth,877.06,13,FinTech,North America,Product-Led Trial,19,True
+CUST-10501,Starter,83.4,19,E-commerce,North America,Paid Search,10,True
+CUST-10502,Starter,128.48,4,Manufacturing,North America,Partner/Referral,64,False
+CUST-10503,Starter,83.88,9,Professional Services,North America,Partner/Referral,12,False
+CUST-10504,Starter,80.58,21,FinTech,North America,Paid Search,44,False
+CUST-10505,Starter,120.77,9,Media,North America,Outbound Sales,62,True
+CUST-10506,Starter,180.31,0,Professional Services,MEA,Paid Search,6,False
+CUST-10507,Growth,733.1,7,SaaS/Tech,LATAM,Product-Led Trial,2,False
+CUST-10508,Enterprise,3600.27,20,E-commerce,Europe,Inbound/Organic,2,True
+CUST-10509,Enterprise,3529.83,2,Media,Europe,Partner/Referral,4,True
+CUST-10510,Starter,126.08,7,Education,LATAM,Inbound/Organic,32,False
+CUST-10511,Growth,715.15,3,FinTech,Europe,Inbound/Organic,6,False
+CUST-10512,Starter,68.75,20,Manufacturing,APAC,Outbound Sales,39,False
+CUST-10513,Enterprise,7789.49,7,Manufacturing,North America,Outbound Sales,15,True
+CUST-10514,Enterprise,7257.9,11,SaaS/Tech,APAC,Product-Led Trial,13,True
+CUST-10515,Growth,376.18,20,E-commerce,Europe,Partner/Referral,41,True
+CUST-10516,Enterprise,6548.16,19,FinTech,APAC,Partner/Referral,2,True
+CUST-10517,Starter,121.92,17,Healthcare,North America,Outbound Sales,12,False
+CUST-10518,Enterprise,4276.48,16,FinTech,APAC,Paid Search,26,True
+CUST-10519,Growth,947.2,17,Education,APAC,Paid Search,144,False
+CUST-10520,Starter,79.67,22,SaaS/Tech,Europe,Partner/Referral,16,False
+CUST-10521,Starter,142.95,0,SaaS/Tech,Europe,Inbound/Organic,227,False
+CUST-10522,Growth,372.19,14,FinTech,APAC,Inbound/Organic,4,False
+CUST-10523,Starter,169.22,18,Healthcare,Europe,Inbound/Organic,56,False
+CUST-10524,Growth,884.34,7,Professional Services,LATAM,Paid Search,84,False
+CUST-10525,Starter,91.42,18,Healthcare,North America,Product-Led Trial,9,False
+CUST-10526,Growth,945.63,16,Manufacturing,Europe,Partner/Referral,35,False
+CUST-10527,Starter,193.5,19,E-commerce,APAC,Inbound/Organic,44,False
+CUST-10528,Starter,168.17,2,Manufacturing,North America,Outbound Sales,25,False
+CUST-10529,Enterprise,4169.7,5,FinTech,North America,Partner/Referral,31,True
+CUST-10530,Starter,100.21,12,SaaS/Tech,LATAM,Outbound Sales,19,False
+CUST-10531,Growth,802.34,9,Healthcare,LATAM,Product-Led Trial,4,True
+CUST-10532,Enterprise,6489.44,2,FinTech,LATAM,Partner/Referral,3,True
+CUST-10533,Enterprise,7268.94,22,FinTech,North America,Inbound/Organic,4,True
+CUST-10534,Starter,158.46,2,E-commerce,Europe,Partner/Referral,31,False
+CUST-10535,Growth,439.65,19,Professional Services,Europe,Product-Led Trial,161,False
+CUST-10536,Starter,102.27,10,Media,North America,Partner/Referral,8,False
+CUST-10537,Growth,759.05,7,E-commerce,Europe,Partner/Referral,30,True
+CUST-10538,Enterprise,6606.86,4,E-commerce,Europe,Product-Led Trial,130,True
+CUST-10539,Starter,147.81,11,FinTech,LATAM,Product-Led Trial,47,False
+CUST-10540,Starter,189.75,21,FinTech,MEA,Inbound/Organic,13,True
+CUST-10541,Starter,127.54,21,Media,MEA,Inbound/Organic,15,False
+CUST-10542,Growth,487.01,20,Professional Services,APAC,Outbound Sales,5,False
+CUST-10543,Starter,80.36,16,Manufacturing,Europe,Product-Led Trial,5,False
+CUST-10544,Starter,106.15,14,Manufacturing,APAC,Product-Led Trial,3,False
+CUST-10545,Starter,189.06,16,Professional Services,Europe,Paid Search,16,False
+CUST-10546,Starter,86.47,17,E-commerce,North America,Inbound/Organic,16,False
+CUST-10547,Starter,140.92,10,Professional Services,Europe,Inbound/Organic,29,False
+CUST-10548,Starter,151.2,15,FinTech,APAC,Product-Led Trial,66,False
+CUST-10549,Starter,161.5,5,E-commerce,Europe,Product-Led Trial,21,True
+CUST-10550,Starter,76.27,15,FinTech,LATAM,Partner/Referral,6,False
+CUST-10551,Growth,384.87,14,Healthcare,North America,Product-Led Trial,17,False
+CUST-10552,Starter,118.69,6,E-commerce,North America,Outbound Sales,18,True
+CUST-10553,Growth,518.18,1,Healthcare,LATAM,Product-Led Trial,12,True
+CUST-10554,Enterprise,2660.01,11,FinTech,APAC,Paid Search,23,True
+CUST-10555,Growth,446.47,19,Manufacturing,North America,Outbound Sales,93,False
+CUST-10556,Enterprise,5989.92,3,Professional Services,North America,Inbound/Organic,40,True
+CUST-10557,Enterprise,4084.01,0,FinTech,North America,Outbound Sales,16,True
+CUST-10558,Growth,823.37,8,FinTech,North America,Inbound/Organic,3,False
+CUST-10559,Starter,182.07,4,Professional Services,Europe,Inbound/Organic,12,False
+CUST-10560,Starter,111.72,9,Manufacturing,APAC,Paid Search,80,True
+CUST-10561,Starter,99.34,9,Healthcare,North America,Product-Led Trial,13,False
+CUST-10562,Enterprise,1948.22,1,FinTech,North America,Paid Search,3,True
+CUST-10563,Starter,136.49,5,SaaS/Tech,APAC,Paid Search,104,False
+CUST-10564,Starter,195.07,1,E-commerce,North America,Outbound Sales,137,True
+CUST-10565,Growth,355.36,11,Education,APAC,Inbound/Organic,38,False
+CUST-10566,Starter,87.91,7,Education,North America,Partner/Referral,2,False
+CUST-10567,Starter,80.67,9,Professional Services,North America,Partner/Referral,12,False
+CUST-10568,Growth,587.03,14,Manufacturing,Europe,Product-Led Trial,105,False
+CUST-10569,Starter,71.39,5,Professional Services,North America,Paid Search,34,True
+CUST-10570,Starter,107.79,22,E-commerce,North America,Product-Led Trial,5,False
+CUST-10571,Starter,65.67,5,Manufacturing,LATAM,Inbound/Organic,6,True
+CUST-10572,Growth,284.37,4,FinTech,Europe,Outbound Sales,114,False
+CUST-10573,Starter,197.89,9,Professional Services,MEA,Outbound Sales,6,False
+CUST-10574,Starter,163.25,20,Education,Europe,Product-Led Trial,16,False
+CUST-10575,Growth,731.63,15,Media,North America,Product-Led Trial,127,False
+CUST-10576,Starter,68.38,20,FinTech,Europe,Paid Search,19,False
+CUST-10577,Starter,146.81,20,E-commerce,APAC,Paid Search,3,False
+CUST-10578,Starter,67.89,7,E-commerce,Europe,Product-Led Trial,52,False
+CUST-10579,Growth,721.14,14,Education,Europe,Product-Led Trial,23,False
+CUST-10580,Enterprise,1314.98,8,Media,North America,Paid Search,4,True
+CUST-10581,Starter,53.18,9,Media,APAC,Partner/Referral,158,False
+CUST-10582,Growth,737.6,3,Media,Europe,Paid Search,31,True
+CUST-10583,Enterprise,5038.17,6,Media,North America,Product-Led Trial,26,True
+CUST-10584,Growth,472.43,11,Manufacturing,North America,Partner/Referral,4,False
+CUST-10585,Growth,664.38,22,Media,APAC,Outbound Sales,64,False
+CUST-10586,Starter,68.17,6,Professional Services,North America,Partner/Referral,88,False
+CUST-10587,Starter,69.19,11,SaaS/Tech,APAC,Partner/Referral,6,False
+CUST-10588,Starter,109.3,7,Media,APAC,Outbound Sales,5,True
+CUST-10589,Growth,880.07,19,Healthcare,LATAM,Product-Led Trial,10,True
+CUST-10590,Growth,503.6,12,Education,North America,Inbound/Organic,15,True
+CUST-10591,Starter,173.46,21,Media,Europe,Paid Search,2,True
+CUST-10592,Enterprise,4246.7,20,Professional Services,North America,Paid Search,92,True
+CUST-10593,Starter,68.98,2,FinTech,North America,Outbound Sales,86,True
+CUST-10594,Growth,405.14,6,FinTech,Europe,Outbound Sales,55,False
+CUST-10595,Starter,91.68,19,Professional Services,Europe,Outbound Sales,119,False
+CUST-10596,Starter,193.52,15,Healthcare,Europe,Outbound Sales,67,False
+CUST-10597,Enterprise,7828.31,14,Professional Services,North America,Outbound Sales,10,True
+CUST-10598,Growth,855.23,5,E-commerce,Europe,Partner/Referral,67,False
+CUST-10599,Enterprise,5081.91,21,Professional Services,North America,Outbound Sales,4,True
+CUST-10600,Enterprise,7975.96,11,E-commerce,APAC,Partner/Referral,53,True
+CUST-10601,Starter,96.37,12,SaaS/Tech,APAC,Inbound/Organic,18,False
+CUST-10602,Growth,943.58,6,Manufacturing,North America,Partner/Referral,31,False
+CUST-10603,Starter,58.31,18,SaaS/Tech,Europe,Outbound Sales,8,False
+CUST-10604,Enterprise,4162.18,19,Education,LATAM,Inbound/Organic,3,True
+CUST-10605,Growth,553.18,19,E-commerce,North America,Inbound/Organic,5,False
+CUST-10606,Growth,962.7,8,E-commerce,Europe,Product-Led Trial,9,False
+CUST-10607,Starter,142.0,21,E-commerce,North America,Paid Search,14,False
+CUST-10608,Growth,476.04,18,FinTech,Europe,Outbound Sales,64,True
+CUST-10609,Starter,180.82,2,Professional Services,LATAM,Partner/Referral,158,False
+CUST-10610,Growth,454.98,15,Professional Services,Europe,Outbound Sales,5,False
+CUST-10611,Growth,458.16,22,E-commerce,North America,Partner/Referral,8,True
+CUST-10612,Starter,126.44,4,Manufacturing,Europe,Inbound/Organic,38,False
+CUST-10613,Starter,180.08,11,Professional Services,North America,Outbound Sales,14,True
+CUST-10614,Starter,145.59,20,FinTech,North America,Outbound Sales,20,False
+CUST-10615,Enterprise,6847.61,10,FinTech,North America,Partner/Referral,5,True
+CUST-10616,Starter,168.97,21,E-commerce,APAC,Paid Search,40,False
+CUST-10617,Enterprise,4787.8,18,Professional Services,Europe,Paid Search,107,True
+CUST-10618,Starter,57.94,22,Education,APAC,Outbound Sales,52,True
+CUST-10619,Starter,73.51,18,E-commerce,North America,Outbound Sales,6,True
+CUST-10620,Starter,125.76,18,Healthcare,North America,Paid Search,25,True
+CUST-10621,Starter,135.08,12,Healthcare,LATAM,Partner/Referral,6,False
+CUST-10622,Starter,186.63,6,Manufacturing,APAC,Inbound/Organic,15,False
+CUST-10623,Enterprise,3076.29,17,FinTech,MEA,Partner/Referral,28,True
+CUST-10624,Starter,126.78,8,FinTech,North America,Outbound Sales,82,True
+CUST-10625,Enterprise,1637.98,17,Healthcare,North America,Inbound/Organic,67,True
+CUST-10626,Starter,98.67,14,SaaS/Tech,Europe,Partner/Referral,16,False
+CUST-10627,Starter,194.17,5,Media,MEA,Product-Led Trial,26,False
+CUST-10628,Starter,75.85,14,E-commerce,Europe,Product-Led Trial,60,True
+CUST-10629,Starter,101.49,10,Healthcare,MEA,Product-Led Trial,23,False
+CUST-10630,Enterprise,6111.7,8,SaaS/Tech,Europe,Outbound Sales,93,True
+CUST-10631,Starter,135.75,18,FinTech,APAC,Product-Led Trial,9,False
+CUST-10632,Enterprise,7230.97,2,Media,Europe,Product-Led Trial,85,True
+CUST-10633,Starter,143.92,2,FinTech,MEA,Partner/Referral,214,False
+CUST-10634,Growth,546.81,20,SaaS/Tech,Europe,Outbound Sales,19,False
+CUST-10635,Starter,138.07,22,Professional Services,North America,Inbound/Organic,238,False
+CUST-10636,Starter,82.69,18,Professional Services,North America,Paid Search,12,False
+CUST-10637,Starter,160.71,20,E-commerce,Europe,Product-Led Trial,23,False
+CUST-10638,Starter,88.2,20,FinTech,Europe,Inbound/Organic,13,False
+CUST-10639,Enterprise,2698.05,5,Education,North America,Paid Search,8,True
+CUST-10640,Enterprise,2220.86,2,SaaS/Tech,North America,Paid Search,9,True
+CUST-10641,Starter,87.04,0,FinTech,North America,Inbound/Organic,111,False
+CUST-10642,Growth,911.64,1,Education,APAC,Outbound Sales,4,False
+CUST-10643,Starter,73.69,15,FinTech,APAC,Paid Search,61,False
+CUST-10644,Growth,669.81,5,Media,APAC,Outbound Sales,4,False
+CUST-10645,Starter,170.78,14,FinTech,Europe,Inbound/Organic,27,False
+CUST-10646,Starter,88.9,14,Healthcare,Europe,Product-Led Trial,309,False
+CUST-10647,Growth,944.46,9,Education,APAC,Inbound/Organic,4,False
+CUST-10648,Starter,83.66,8,Manufacturing,North America,Outbound Sales,15,False
+CUST-10649,Enterprise,1282.02,6,E-commerce,APAC,Partner/Referral,5,True
+CUST-10650,Starter,195.48,6,Education,LATAM,Paid Search,52,False
+CUST-10651,Enterprise,3754.89,16,Education,Europe,Product-Led Trial,55,True
+CUST-10652,Starter,143.8,22,Manufacturing,North America,Outbound Sales,197,False
+CUST-10653,Starter,109.8,18,Manufacturing,North America,Inbound/Organic,8,False
+CUST-10654,Growth,916.7,22,Manufacturing,North America,Partner/Referral,4,True
+CUST-10655,Growth,287.1,7,E-commerce,North America,Partner/Referral,6,False
+CUST-10656,Growth,940.04,6,Healthcare,APAC,Partner/Referral,40,False
+CUST-10657,Growth,464.96,16,Manufacturing,Europe,Paid Search,9,False
+CUST-10658,Starter,58.55,10,Manufacturing,North America,Outbound Sales,21,False
+CUST-10659,Growth,848.75,19,Media,North America,Outbound Sales,35,False
+CUST-10660,Enterprise,5184.88,7,Media,Europe,Outbound Sales,22,True
+CUST-10661,Starter,156.62,15,Manufacturing,North America,Inbound/Organic,26,False
+CUST-10662,Growth,708.2,3,Education,Europe,Inbound/Organic,99,False
+CUST-10663,Growth,284.22,19,Manufacturing,Europe,Product-Led Trial,20,False
+CUST-10664,Starter,94.64,19,Professional Services,Europe,Paid Search,79,False
+CUST-10665,Starter,190.31,8,E-commerce,APAC,Product-Led Trial,121,True
+CUST-10666,Starter,130.64,0,E-commerce,North America,Partner/Referral,5,False
+CUST-10667,Growth,226.58,5,Manufacturing,MEA,Paid Search,27,True
+CUST-10668,Growth,675.7,19,Education,Europe,Outbound Sales,9,False
+CUST-10669,Starter,188.62,6,E-commerce,APAC,Inbound/Organic,38,False
+CUST-10670,Starter,187.1,15,Healthcare,North America,Inbound/Organic,5,True
+CUST-10671,Enterprise,6907.16,21,E-commerce,North America,Outbound Sales,15,True
+CUST-10672,Starter,157.6,0,Professional Services,Europe,Partner/Referral,2,False
+CUST-10673,Growth,774.26,8,Professional Services,North America,Paid Search,29,True
+CUST-10674,Starter,54.84,12,Media,APAC,Product-Led Trial,63,False
+CUST-10675,Enterprise,6412.28,21,Healthcare,North America,Paid Search,83,True
+CUST-10676,Growth,990.08,17,E-commerce,Europe,Paid Search,31,False
+CUST-10677,Starter,154.96,13,SaaS/Tech,North America,Partner/Referral,25,False
+CUST-10678,Starter,51.74,19,Media,North America,Inbound/Organic,5,False
+CUST-10679,Starter,82.59,21,Healthcare,LATAM,Product-Led Trial,29,False
+CUST-10680,Growth,871.16,15,E-commerce,North America,Inbound/Organic,84,False
+CUST-10681,Enterprise,6025.53,22,Healthcare,North America,Paid Search,6,True
+CUST-10682,Enterprise,2330.9,19,Education,Europe,Product-Led Trial,22,True
+CUST-10683,Growth,311.06,21,Media,North America,Partner/Referral,5,False
+CUST-10684,Enterprise,7364.41,22,Professional Services,North America,Partner/Referral,9,True
+CUST-10685,Starter,130.68,6,Media,APAC,Paid Search,4,False
+CUST-10686,Starter,173.47,21,Media,Europe,Inbound/Organic,29,True
+CUST-10687,Starter,111.03,22,Professional Services,North America,Partner/Referral,6,False
+CUST-10688,Growth,758.98,22,Media,North America,Product-Led Trial,38,True
+CUST-10689,Enterprise,3671.32,13,Education,North America,Outbound Sales,13,True
+CUST-10690,Starter,70.9,8,SaaS/Tech,LATAM,Outbound Sales,44,False
+CUST-10691,Enterprise,4933.05,19,Media,LATAM,Paid Search,65,True
+CUST-10692,Starter,138.47,3,Education,North America,Inbound/Organic,40,False
+CUST-10693,Growth,945.43,15,SaaS/Tech,Europe,Outbound Sales,22,False
+CUST-10694,Starter,119.7,1,Professional Services,North America,Product-Led Trial,102,True
+CUST-10695,Growth,452.56,9,SaaS/Tech,Europe,Outbound Sales,7,True
+CUST-10696,Starter,130.82,13,Media,Europe,Product-Led Trial,17,False
+CUST-10697,Enterprise,3399.87,16,Education,Europe,Paid Search,80,True
+CUST-10698,Growth,636.8,22,Education,Europe,Product-Led Trial,36,False
+CUST-10699,Growth,360.81,13,SaaS/Tech,North America,Partner/Referral,47,False
+CUST-10700,Growth,677.35,10,FinTech,North America,Outbound Sales,4,False
+CUST-10701,Enterprise,3966.39,13,FinTech,Europe,Product-Led Trial,19,True
+CUST-10702,Starter,186.58,18,SaaS/Tech,North America,Partner/Referral,13,False
+CUST-10703,Enterprise,3542.79,19,FinTech,LATAM,Partner/Referral,79,True
+CUST-10704,Enterprise,6915.28,0,SaaS/Tech,North America,Paid Search,7,True
+CUST-10705,Growth,583.76,6,SaaS/Tech,North America,Paid Search,344,False
+CUST-10706,Starter,161.29,12,FinTech,North America,Partner/Referral,2,False
+CUST-10707,Enterprise,3097.68,11,SaaS/Tech,APAC,Paid Search,53,True
+CUST-10708,Growth,608.27,15,FinTech,North America,Paid Search,70,False
+CUST-10709,Starter,158.22,2,Professional Services,APAC,Paid Search,40,False
+CUST-10710,Starter,95.41,11,Education,Europe,Product-Led Trial,74,False
+CUST-10711,Starter,120.02,15,Healthcare,North America,Outbound Sales,13,False
+CUST-10712,Starter,102.41,4,Healthcare,North America,Outbound Sales,43,False
+CUST-10713,Growth,356.99,16,E-commerce,North America,Product-Led Trial,9,False
+CUST-10714,Growth,941.95,2,Professional Services,MEA,Paid Search,25,False
+CUST-10715,Starter,157.91,16,Healthcare,North America,Outbound Sales,57,False
+CUST-10716,Starter,75.19,1,E-commerce,APAC,Inbound/Organic,26,False
+CUST-10717,Starter,149.0,11,SaaS/Tech,Europe,Paid Search,28,False
+CUST-10718,Growth,357.85,19,Media,North America,Product-Led Trial,28,False
+CUST-10719,Growth,843.29,11,E-commerce,North America,Partner/Referral,2,False
+CUST-10720,Growth,461.98,5,Manufacturing,North America,Partner/Referral,62,True
+CUST-10721,Starter,142.53,5,Media,North America,Product-Led Trial,15,False
+CUST-10722,Growth,389.05,0,Healthcare,APAC,Partner/Referral,11,False
+CUST-10723,Growth,249.5,10,Professional Services,North America,Partner/Referral,12,False
+CUST-10724,Starter,156.86,6,Media,LATAM,Paid Search,13,True
+CUST-10725,Starter,135.64,21,E-commerce,North America,Product-Led Trial,4,False
+CUST-10726,Starter,109.64,16,Healthcare,LATAM,Paid Search,33,False
+CUST-10727,Starter,143.62,4,Manufacturing,Europe,Outbound Sales,75,False
+CUST-10728,Starter,187.7,20,SaaS/Tech,Europe,Inbound/Organic,6,True
+CUST-10729,Starter,82.05,7,Healthcare,North America,Partner/Referral,29,False
+CUST-10730,Growth,625.73,4,Manufacturing,APAC,Product-Led Trial,79,False
+CUST-10731,Starter,160.93,8,Media,North America,Product-Led Trial,17,False
+CUST-10732,Enterprise,5364.54,20,Manufacturing,North America,Paid Search,233,True
+CUST-10733,Starter,93.7,14,Media,North America,Inbound/Organic,17,False
+CUST-10734,Growth,954.42,22,Education,Europe,Product-Led Trial,16,False
+CUST-10735,Growth,539.98,15,Professional Services,North America,Inbound/Organic,17,True
+CUST-10736,Starter,94.27,0,FinTech,Europe,Product-Led Trial,19,False
+CUST-10737,Starter,189.31,12,Professional Services,LATAM,Paid Search,56,False
+CUST-10738,Enterprise,2928.97,0,Professional Services,APAC,Product-Led Trial,50,True
+CUST-10739,Starter,107.08,18,E-commerce,North America,Partner/Referral,59,False
+CUST-10740,Starter,99.82,22,FinTech,North America,Product-Led Trial,78,False
+CUST-10741,Enterprise,2531.4,22,E-commerce,APAC,Partner/Referral,19,True
+CUST-10742,Growth,306.54,17,Professional Services,North America,Partner/Referral,10,False
+CUST-10743,Growth,294.47,2,Manufacturing,LATAM,Paid Search,8,False
+CUST-10744,Growth,535.05,16,Healthcare,Europe,Paid Search,25,False
+CUST-10745,Starter,126.17,22,Media,Europe,Paid Search,119,False
+CUST-10746,Growth,890.63,3,Media,Europe,Partner/Referral,145,False
+CUST-10747,Enterprise,7977.66,16,FinTech,Europe,Partner/Referral,20,True
+CUST-10748,Enterprise,2427.96,22,Manufacturing,Europe,Partner/Referral,9,True
+CUST-10749,Growth,870.72,18,Manufacturing,Europe,Partner/Referral,4,False
+CUST-10750,Growth,576.83,6,SaaS/Tech,North America,Partner/Referral,86,True
+CUST-10751,Growth,463.06,6,Education,Europe,Paid Search,15,False
+CUST-10752,Enterprise,1351.23,7,SaaS/Tech,APAC,Product-Led Trial,21,True
+CUST-10753,Starter,51.92,19,Education,LATAM,Outbound Sales,26,True
+CUST-10754,Growth,208.4,13,Media,LATAM,Product-Led Trial,26,False
+CUST-10755,Growth,589.44,15,Media,LATAM,Partner/Referral,3,False
+CUST-10756,Starter,192.83,20,E-commerce,North America,Inbound/Organic,11,False
+CUST-10757,Starter,135.78,8,Media,North America,Product-Led Trial,4,False
+CUST-10758,Starter,96.47,12,E-commerce,North America,Outbound Sales,10,False
+CUST-10759,Growth,949.17,6,Manufacturing,North America,Paid Search,6,False
+CUST-10760,Growth,219.21,1,Professional Services,APAC,Outbound Sales,35,False
+CUST-10761,Starter,74.37,5,SaaS/Tech,APAC,Partner/Referral,3,False
+CUST-10762,Starter,89.75,13,Education,Europe,Inbound/Organic,9,False
+CUST-10763,Enterprise,1095.63,0,Professional Services,North America,Inbound/Organic,37,True
+CUST-10764,Growth,586.85,2,Manufacturing,APAC,Product-Led Trial,12,False
+CUST-10765,Growth,408.42,6,FinTech,Europe,Outbound Sales,52,False
+CUST-10766,Growth,897.14,17,FinTech,Europe,Paid Search,10,False
+CUST-10767,Starter,179.06,13,Media,MEA,Outbound Sales,18,False
+CUST-10768,Growth,751.41,6,FinTech,North America,Partner/Referral,33,False
+CUST-10769,Starter,159.47,5,Professional Services,North America,Inbound/Organic,2,False
+CUST-10770,Starter,122.65,4,FinTech,North America,Partner/Referral,22,False
+CUST-10771,Growth,985.69,3,Professional Services,APAC,Outbound Sales,36,False
+CUST-10772,Starter,150.53,5,E-commerce,Europe,Paid Search,11,False
+CUST-10773,Enterprise,3921.74,2,Healthcare,North America,Paid Search,4,True
+CUST-10774,Starter,59.34,15,SaaS/Tech,Europe,Paid Search,16,False
+CUST-10775,Starter,110.67,9,SaaS/Tech,North America,Outbound Sales,11,True
+CUST-10776,Enterprise,7101.1,2,Healthcare,Europe,Product-Led Trial,19,True
+CUST-10777,Starter,124.89,7,Education,APAC,Product-Led Trial,14,False
+CUST-10778,Growth,449.95,2,SaaS/Tech,APAC,Inbound/Organic,11,False
+CUST-10779,Enterprise,4109.29,10,Professional Services,LATAM,Partner/Referral,53,True
+CUST-10780,Starter,158.05,19,Professional Services,MEA,Inbound/Organic,29,False
+CUST-10781,Growth,517.03,21,Media,Europe,Outbound Sales,8,False
+CUST-10782,Starter,135.9,6,Education,Europe,Paid Search,14,True
+CUST-10783,Starter,93.47,5,SaaS/Tech,North America,Partner/Referral,167,False
+CUST-10784,Starter,118.6,6,Professional Services,LATAM,Outbound Sales,14,False
+CUST-10785,Starter,183.96,19,SaaS/Tech,Europe,Inbound/Organic,9,False
+CUST-10786,Growth,716.48,21,E-commerce,Europe,Paid Search,11,False
+CUST-10787,Starter,130.81,9,Healthcare,APAC,Paid Search,31,False
+CUST-10788,Starter,136.76,1,FinTech,Europe,Product-Led Trial,8,False
+CUST-10789,Enterprise,6797.3,12,Healthcare,North America,Paid Search,22,True
+CUST-10790,Enterprise,1934.74,4,Professional Services,APAC,Product-Led Trial,43,True
+CUST-10791,Starter,159.39,21,Education,North America,Partner/Referral,60,False
+CUST-10792,Growth,681.71,10,SaaS/Tech,MEA,Outbound Sales,56,False
+CUST-10793,Enterprise,1456.94,10,Professional Services,Europe,Inbound/Organic,43,True
+CUST-10794,Growth,630.81,6,SaaS/Tech,LATAM,Partner/Referral,21,False
+CUST-10795,Growth,567.02,4,SaaS/Tech,Europe,Partner/Referral,16,False
+CUST-10796,Enterprise,2926.19,3,Manufacturing,LATAM,Inbound/Organic,46,True
+CUST-10797,Growth,445.24,7,Education,North America,Outbound Sales,54,True
+CUST-10798,Starter,69.95,14,Professional Services,MEA,Outbound Sales,31,False
+CUST-10799,Starter,112.2,13,SaaS/Tech,LATAM,Inbound/Organic,13,False
+CUST-10800,Starter,64.28,18,Manufacturing,APAC,Partner/Referral,368,False
+CUST-10801,Growth,665.44,9,Education,APAC,Partner/Referral,35,False
+CUST-10802,Starter,57.55,22,SaaS/Tech,APAC,Partner/Referral,20,False
+CUST-10803,Growth,426.96,12,E-commerce,Europe,Inbound/Organic,19,False
+CUST-10804,Growth,792.61,4,E-commerce,North America,Partner/Referral,72,False
+CUST-10805,Growth,695.18,22,E-commerce,Europe,Inbound/Organic,7,True
+CUST-10806,Enterprise,5051.3,5,Education,APAC,Paid Search,79,True
+CUST-10807,Growth,597.29,15,FinTech,Europe,Inbound/Organic,45,False
+CUST-10808,Starter,192.09,8,Professional Services,APAC,Outbound Sales,44,True
+CUST-10809,Growth,211.7,9,Healthcare,MEA,Partner/Referral,5,False
+CUST-10810,Starter,145.89,21,Professional Services,North America,Inbound/Organic,75,False
+CUST-10811,Enterprise,7496.1,12,E-commerce,North America,Paid Search,14,True
+CUST-10812,Starter,102.18,22,Professional Services,North America,Outbound Sales,45,False
+CUST-10813,Enterprise,2439.35,6,Media,MEA,Paid Search,16,True
+CUST-10814,Growth,351.99,12,SaaS/Tech,Europe,Outbound Sales,13,True
+CUST-10815,Starter,112.44,0,Education,North America,Outbound Sales,18,False
+CUST-10816,Enterprise,4814.88,3,FinTech,North America,Paid Search,107,True
+CUST-10817,Growth,741.02,11,Professional Services,North America,Product-Led Trial,6,True
+CUST-10818,Growth,911.89,18,SaaS/Tech,Europe,Inbound/Organic,42,False
+CUST-10819,Enterprise,7899.21,6,E-commerce,North America,Partner/Referral,9,True
+CUST-10820,Starter,82.54,4,E-commerce,North America,Partner/Referral,4,True
+CUST-10821,Growth,278.58,9,Healthcare,North America,Product-Led Trial,23,False
+CUST-10822,Growth,578.79,17,SaaS/Tech,North America,Product-Led Trial,113,False
+CUST-10823,Growth,222.47,3,E-commerce,Europe,Inbound/Organic,61,False
+CUST-10824,Starter,146.84,18,E-commerce,Europe,Product-Led Trial,60,False
+CUST-10825,Starter,169.82,12,FinTech,Europe,Inbound/Organic,29,False
+CUST-10826,Enterprise,4520.13,11,Education,North America,Product-Led Trial,12,True
+CUST-10827,Starter,171.39,8,E-commerce,North America,Outbound Sales,17,False
+CUST-10828,Starter,73.98,11,Healthcare,APAC,Inbound/Organic,98,False
+CUST-10829,Starter,94.88,4,E-commerce,North America,Paid Search,64,False
+CUST-10830,Starter,103.18,4,Manufacturing,North America,Outbound Sales,24,False
+CUST-10831,Starter,168.46,16,E-commerce,APAC,Partner/Referral,29,False
+CUST-10832,Growth,533.49,20,FinTech,North America,Partner/Referral,16,False
+CUST-10833,Growth,455.69,7,E-commerce,North America,Inbound/Organic,42,False
+CUST-10834,Growth,730.81,10,Professional Services,North America,Outbound Sales,6,False
+CUST-10835,Starter,112.4,8,SaaS/Tech,Europe,Outbound Sales,299,False
+CUST-10836,Enterprise,3680.32,11,Media,North America,Partner/Referral,28,True
+CUST-10837,Growth,790.41,0,Healthcare,Europe,Outbound Sales,11,False
+CUST-10838,Starter,185.76,12,Professional Services,Europe,Inbound/Organic,15,False
+CUST-10839,Enterprise,1005.23,17,Healthcare,APAC,Partner/Referral,11,True
+CUST-10840,Starter,118.59,5,Manufacturing,North America,Paid Search,280,False
+CUST-10841,Starter,105.37,17,SaaS/Tech,Europe,Inbound/Organic,45,False
+CUST-10842,Starter,56.62,19,E-commerce,APAC,Paid Search,12,False
+CUST-10843,Starter,196.69,5,Professional Services,North America,Inbound/Organic,153,False
+CUST-10844,Starter,94.97,11,Education,MEA,Inbound/Organic,68,False
+CUST-10845,Growth,913.08,12,SaaS/Tech,North America,Product-Led Trial,54,False
+CUST-10846,Starter,129.0,10,Professional Services,APAC,Product-Led Trial,10,False
+CUST-10847,Starter,51.95,9,SaaS/Tech,MEA,Outbound Sales,8,False
+CUST-10848,Starter,151.04,18,Media,North America,Outbound Sales,99,True
+CUST-10849,Starter,143.96,17,SaaS/Tech,Europe,Product-Led Trial,58,False
+CUST-10850,Starter,191.07,5,Professional Services,APAC,Partner/Referral,31,False
+CUST-10851,Starter,81.34,6,FinTech,North America,Product-Led Trial,12,False
+CUST-10852,Enterprise,1349.02,16,E-commerce,Europe,Inbound/Organic,11,True
+CUST-10853,Enterprise,4755.29,10,Professional Services,North America,Inbound/Organic,4,True
+CUST-10854,Starter,56.43,4,Education,North America,Partner/Referral,2,False
+CUST-10855,Starter,151.67,1,SaaS/Tech,APAC,Inbound/Organic,250,True
+CUST-10856,Growth,337.74,12,Healthcare,Europe,Inbound/Organic,31,False
+CUST-10857,Growth,412.72,14,Manufacturing,APAC,Product-Led Trial,11,False
+CUST-10858,Starter,159.25,0,Media,Europe,Partner/Referral,9,False
+CUST-10859,Enterprise,6993.08,13,Media,North America,Partner/Referral,27,True
+CUST-10860,Starter,157.0,17,Education,MEA,Paid Search,12,False
+CUST-10861,Starter,163.47,17,SaaS/Tech,North America,Partner/Referral,33,False
+CUST-10862,Starter,113.13,17,Education,APAC,Inbound/Organic,2,False
+CUST-10863,Growth,666.93,20,Professional Services,North America,Paid Search,15,False
+CUST-10864,Enterprise,6823.59,17,SaaS/Tech,North America,Product-Led Trial,38,True
+CUST-10865,Enterprise,5232.02,1,FinTech,Europe,Paid Search,31,True
+CUST-10866,Starter,191.39,15,E-commerce,North America,Inbound/Organic,23,False
+CUST-10867,Growth,484.89,16,Education,MEA,Partner/Referral,21,False
+CUST-10868,Starter,123.63,19,SaaS/Tech,North America,Partner/Referral,6,False
+CUST-10869,Starter,157.42,4,Manufacturing,LATAM,Product-Led Trial,55,False
+CUST-10870,Starter,180.16,13,Professional Services,APAC,Outbound Sales,23,True
+CUST-10871,Starter,190.56,21,Healthcare,North America,Partner/Referral,5,False
+CUST-10872,Starter,154.36,2,Media,North America,Paid Search,5,True
+CUST-10873,Starter,174.57,16,Media,Europe,Outbound Sales,28,False
+CUST-10874,Starter,105.4,14,Education,Europe,Paid Search,71,False
+CUST-10875,Growth,289.5,18,Healthcare,Europe,Paid Search,4,True
+CUST-10876,Enterprise,6482.12,22,Manufacturing,Europe,Paid Search,43,True
+CUST-10877,Growth,631.63,20,Professional Services,North America,Partner/Referral,28,False
+CUST-10878,Starter,160.84,14,Healthcare,Europe,Product-Led Trial,14,False
+CUST-10879,Starter,87.2,13,Media,Europe,Outbound Sales,9,False
+CUST-10880,Growth,441.8,7,Healthcare,North America,Inbound/Organic,25,False
+CUST-10881,Growth,336.48,12,E-commerce,North America,Product-Led Trial,97,False
+CUST-10882,Starter,194.52,11,Manufacturing,APAC,Outbound Sales,19,True
+CUST-10883,Starter,78.85,7,Professional Services,North America,Inbound/Organic,16,False
+CUST-10884,Starter,192.26,7,FinTech,North America,Product-Led Trial,31,True
+CUST-10885,Enterprise,2809.9,17,Manufacturing,Europe,Paid Search,49,True
+CUST-10886,Enterprise,5847.6,3,Healthcare,LATAM,Inbound/Organic,15,True
+CUST-10887,Starter,105.0,4,E-commerce,North America,Partner/Referral,37,False
+CUST-10888,Starter,56.08,20,E-commerce,MEA,Paid Search,13,False
+CUST-10889,Enterprise,4878.69,14,E-commerce,MEA,Outbound Sales,105,True
+CUST-10890,Growth,719.93,2,Professional Services,LATAM,Product-Led Trial,11,False
+CUST-10891,Growth,531.71,8,Media,North America,Inbound/Organic,11,False
+CUST-10892,Starter,118.57,22,Professional Services,North America,Paid Search,81,False
+CUST-10893,Growth,868.2,0,Media,North America,Outbound Sales,2,False
+CUST-10894,Growth,921.52,11,Manufacturing,LATAM,Outbound Sales,72,False
+CUST-10895,Enterprise,1459.38,0,E-commerce,Europe,Product-Led Trial,5,True
+CUST-10896,Growth,684.83,5,FinTech,Europe,Product-Led Trial,131,False
+CUST-10897,Starter,134.32,4,SaaS/Tech,Europe,Inbound/Organic,36,True
+CUST-10898,Starter,160.69,17,Professional Services,APAC,Partner/Referral,7,False
+CUST-10899,Growth,497.01,21,Healthcare,APAC,Outbound Sales,76,False
+CUST-10900,Starter,133.84,4,Healthcare,North America,Paid Search,111,False
+CUST-10901,Growth,735.91,15,Education,North America,Partner/Referral,27,False
+CUST-10902,Growth,451.34,4,E-commerce,APAC,Outbound Sales,675,False
+CUST-10903,Starter,78.0,16,SaaS/Tech,Europe,Partner/Referral,48,False
+CUST-10904,Starter,195.84,21,FinTech,Europe,Paid Search,122,False
+CUST-10905,Growth,284.07,19,Professional Services,Europe,Partner/Referral,14,False
+CUST-10906,Enterprise,3898.92,0,E-commerce,APAC,Outbound Sales,38,True
+CUST-10907,Starter,116.13,8,SaaS/Tech,LATAM,Product-Led Trial,13,False
+CUST-10908,Starter,118.86,16,E-commerce,Europe,Product-Led Trial,58,False
+CUST-10909,Growth,248.03,9,FinTech,Europe,Outbound Sales,12,False
+CUST-10910,Growth,664.58,4,Media,North America,Product-Led Trial,44,False
+CUST-10911,Enterprise,6130.14,2,Manufacturing,APAC,Product-Led Trial,8,True
+CUST-10912,Enterprise,3987.53,7,SaaS/Tech,APAC,Inbound/Organic,24,True
+CUST-10913,Starter,115.09,9,Education,APAC,Outbound Sales,3,False
+CUST-10914,Growth,967.21,15,Healthcare,Europe,Product-Led Trial,77,False
+CUST-10915,Starter,77.43,14,SaaS/Tech,North America,Partner/Referral,9,False
+CUST-10916,Growth,837.07,5,E-commerce,LATAM,Partner/Referral,6,False
+CUST-10917,Growth,414.36,19,Manufacturing,APAC,Paid Search,19,False
+CUST-10918,Growth,818.95,19,Education,North America,Paid Search,26,False
+CUST-10919,Starter,157.43,18,Manufacturing,Europe,Paid Search,7,False
+CUST-10920,Growth,544.36,21,FinTech,APAC,Paid Search,3,False
+CUST-10921,Starter,141.31,2,Healthcare,North America,Paid Search,11,False
+CUST-10922,Growth,905.67,9,Healthcare,APAC,Paid Search,15,False
+CUST-10923,Enterprise,6084.12,9,Healthcare,Europe,Outbound Sales,71,True
+CUST-10924,Growth,719.31,3,Education,Europe,Partner/Referral,32,False
+CUST-10925,Growth,208.03,5,Media,Europe,Paid Search,8,False
+CUST-10926,Enterprise,2145.73,16,FinTech,North America,Inbound/Organic,7,True
+CUST-10927,Enterprise,3879.31,6,Professional Services,Europe,Product-Led Trial,2,True
+CUST-10928,Starter,61.01,10,SaaS/Tech,North America,Partner/Referral,28,False
+CUST-10929,Growth,241.81,15,SaaS/Tech,APAC,Outbound Sales,27,False
+CUST-10930,Starter,175.8,1,Professional Services,MEA,Outbound Sales,55,False
+CUST-10931,Enterprise,5733.1,4,SaaS/Tech,APAC,Partner/Referral,112,True
+CUST-10932,Enterprise,3557.57,12,Education,Europe,Outbound Sales,21,True
+CUST-10933,Growth,909.73,6,E-commerce,Europe,Paid Search,19,False
+CUST-10934,Growth,468.78,6,SaaS/Tech,North America,Inbound/Organic,6,False
+CUST-10935,Starter,127.27,19,SaaS/Tech,North America,Paid Search,24,True
+CUST-10936,Starter,132.1,13,Education,North America,Paid Search,10,False
+CUST-10937,Growth,323.72,3,Manufacturing,APAC,Product-Led Trial,7,False
+CUST-10938,Starter,161.13,6,FinTech,Europe,Partner/Referral,30,False
+CUST-10939,Starter,105.43,7,Media,Europe,Outbound Sales,26,False
+CUST-10940,Growth,269.21,17,Manufacturing,Europe,Outbound Sales,8,False
+CUST-10941,Starter,75.58,2,Professional Services,Europe,Inbound/Organic,74,False
+CUST-10942,Starter,66.63,11,Education,LATAM,Inbound/Organic,50,False
+CUST-10943,Growth,579.3,9,Healthcare,APAC,Partner/Referral,26,False
+CUST-10944,Starter,179.43,12,Education,North America,Paid Search,9,False
+CUST-10945,Growth,779.65,15,Manufacturing,Europe,Outbound Sales,49,False
+CUST-10946,Enterprise,2201.75,11,Manufacturing,APAC,Paid Search,15,True
+CUST-10947,Enterprise,4845.28,12,E-commerce,LATAM,Inbound/Organic,143,True
+CUST-10948,Enterprise,5111.59,8,E-commerce,Europe,Outbound Sales,142,True
+CUST-10949,Starter,123.63,12,FinTech,APAC,Inbound/Organic,60,False
+CUST-10950,Starter,178.75,19,SaaS/Tech,North America,Partner/Referral,4,False
+CUST-10951,Starter,93.43,1,Media,Europe,Paid Search,14,False
+CUST-10952,Growth,444.3,3,Professional Services,LATAM,Partner/Referral,81,False
+CUST-10953,Starter,68.76,12,Media,Europe,Paid Search,13,True
+CUST-10954,Starter,180.36,10,Healthcare,North America,Product-Led Trial,4,False
+CUST-10955,Starter,167.52,13,FinTech,Europe,Paid Search,6,False
+CUST-10956,Growth,484.07,9,E-commerce,North America,Partner/Referral,14,False
+CUST-10957,Growth,413.47,18,FinTech,North America,Product-Led Trial,5,True
+CUST-10958,Starter,155.34,11,E-commerce,APAC,Inbound/Organic,41,False
+CUST-10959,Growth,672.45,18,Education,LATAM,Product-Led Trial,10,True
+CUST-10960,Growth,828.48,7,Education,Europe,Paid Search,20,False
+CUST-10961,Enterprise,3412.18,3,Education,Europe,Inbound/Organic,110,True
+CUST-10962,Starter,182.28,1,Media,North America,Outbound Sales,46,False
+CUST-10963,Growth,904.88,8,FinTech,APAC,Outbound Sales,91,False
+CUST-10964,Starter,132.68,8,Professional Services,North America,Partner/Referral,94,False
+CUST-10965,Enterprise,3007.93,16,SaaS/Tech,North America,Product-Led Trial,20,True
+CUST-10966,Starter,167.93,13,FinTech,North America,Paid Search,27,False
+CUST-10967,Starter,139.51,18,Media,North America,Product-Led Trial,3,False
+CUST-10968,Enterprise,1383.21,17,SaaS/Tech,Europe,Inbound/Organic,4,True
+CUST-10969,Starter,165.75,1,FinTech,LATAM,Inbound/Organic,51,False
+CUST-10970,Enterprise,3124.53,0,Education,North America,Inbound/Organic,16,True
+CUST-10971,Starter,135.97,9,Media,Europe,Outbound Sales,17,False
+CUST-10972,Enterprise,7705.38,7,Education,Europe,Paid Search,7,True
+CUST-10973,Starter,188.88,2,SaaS/Tech,APAC,Partner/Referral,22,False
+CUST-10974,Enterprise,7760.39,5,E-commerce,APAC,Paid Search,7,True
+CUST-10975,Enterprise,3029.47,17,Education,North America,Partner/Referral,25,True
+CUST-10976,Enterprise,7328.8,17,Healthcare,North America,Outbound Sales,6,True
+CUST-10977,Growth,672.49,17,E-commerce,APAC,Inbound/Organic,72,False
+CUST-10978,Enterprise,3169.06,5,Manufacturing,APAC,Inbound/Organic,63,True
+CUST-10979,Starter,125.23,15,Manufacturing,MEA,Outbound Sales,144,False
+CUST-10980,Starter,185.35,18,Professional Services,North America,Inbound/Organic,49,False
+CUST-10981,Starter,71.84,12,Healthcare,Europe,Product-Led Trial,9,False
+CUST-10982,Starter,91.74,15,E-commerce,North America,Paid Search,64,False
+CUST-10983,Starter,118.82,9,Professional Services,LATAM,Partner/Referral,10,False
+CUST-10984,Starter,125.5,8,Healthcare,Europe,Partner/Referral,20,False
+CUST-10985,Enterprise,1025.59,17,Manufacturing,Europe,Product-Led Trial,2,True
+CUST-10986,Starter,54.67,2,Healthcare,APAC,Inbound/Organic,62,False
+CUST-10987,Enterprise,1487.83,10,FinTech,North America,Outbound Sales,12,True
+CUST-10988,Growth,737.19,11,Media,North America,Partner/Referral,20,False
+CUST-10989,Enterprise,4846.0,8,FinTech,Europe,Product-Led Trial,30,True
+CUST-10990,Growth,888.64,9,Education,Europe,Paid Search,2,False
+CUST-10991,Growth,447.72,8,SaaS/Tech,Europe,Partner/Referral,18,True
+CUST-10992,Starter,181.34,12,Manufacturing,LATAM,Paid Search,34,True
+CUST-10993,Growth,909.15,13,Media,Europe,Inbound/Organic,19,False
+CUST-10994,Enterprise,4719.38,0,Manufacturing,MEA,Paid Search,11,True
+CUST-10995,Enterprise,3535.27,14,Professional Services,North America,Paid Search,16,True
+CUST-10996,Growth,248.49,21,FinTech,Europe,Inbound/Organic,9,False
+CUST-10997,Growth,776.18,13,SaaS/Tech,APAC,Product-Led Trial,16,False
+CUST-10998,Growth,325.74,15,Education,LATAM,Inbound/Organic,19,False
+CUST-10999,Growth,732.96,2,E-commerce,North America,Inbound/Organic,20,True
+CUST-11000,Starter,173.69,6,Healthcare,North America,Product-Led Trial,73,True
+CUST-11001,Growth,398.73,8,E-commerce,North America,Paid Search,14,False
+CUST-11002,Growth,891.65,8,Education,North America,Outbound Sales,18,False
+CUST-11003,Starter,177.81,12,Media,Europe,Outbound Sales,35,False
+CUST-11004,Growth,202.33,18,Media,APAC,Partner/Referral,157,False
+CUST-11005,Enterprise,2854.77,11,Media,Europe,Partner/Referral,153,True
+CUST-11006,Starter,137.62,10,Media,North America,Paid Search,20,False
+CUST-11007,Starter,79.78,7,Education,Europe,Outbound Sales,49,False
+CUST-11008,Starter,118.53,15,SaaS/Tech,Europe,Inbound/Organic,8,True
+CUST-11009,Starter,114.49,14,Professional Services,North America,Paid Search,2,False
+CUST-11010,Enterprise,4652.2,7,FinTech,North America,Product-Led Trial,5,True
+CUST-11011,Growth,709.29,16,E-commerce,APAC,Partner/Referral,24,False
+CUST-11012,Growth,717.83,12,Media,Europe,Paid Search,31,True
+CUST-11013,Starter,137.87,17,Professional Services,North America,Inbound/Organic,42,False
+CUST-11014,Starter,198.74,22,E-commerce,North America,Paid Search,36,False
+CUST-11015,Growth,369.42,2,E-commerce,APAC,Product-Led Trial,238,False
+CUST-11016,Enterprise,6630.62,8,Professional Services,APAC,Partner/Referral,33,True
+CUST-11017,Growth,826.64,18,E-commerce,North America,Inbound/Organic,16,True
+CUST-11018,Starter,97.68,10,E-commerce,North America,Paid Search,102,False
+CUST-11019,Starter,186.66,12,SaaS/Tech,MEA,Inbound/Organic,427,True
+CUST-11020,Enterprise,1928.02,19,E-commerce,LATAM,Outbound Sales,61,True
+CUST-11021,Growth,261.64,19,Healthcare,North America,Product-Led Trial,33,False
+CUST-11022,Starter,172.41,10,Manufacturing,Europe,Partner/Referral,73,True
+CUST-11023,Enterprise,4496.97,18,SaaS/Tech,Europe,Product-Led Trial,9,True
+CUST-11024,Enterprise,4207.77,12,Healthcare,LATAM,Outbound Sales,13,True
+CUST-11025,Starter,193.28,13,Media,Europe,Partner/Referral,84,False
+CUST-11026,Starter,110.43,3,E-commerce,Europe,Outbound Sales,3,False
+CUST-11027,Growth,647.35,17,Manufacturing,APAC,Outbound Sales,106,False
+CUST-11028,Starter,163.92,7,Manufacturing,LATAM,Paid Search,18,False
+CUST-11029,Starter,163.05,19,E-commerce,LATAM,Paid Search,42,False
+CUST-11030,Starter,125.37,5,SaaS/Tech,Europe,Outbound Sales,25,False
+CUST-11031,Starter,130.11,21,FinTech,MEA,Inbound/Organic,18,False
+CUST-11032,Growth,474.2,10,Media,North America,Partner/Referral,47,False
+CUST-11033,Starter,153.38,13,E-commerce,APAC,Paid Search,16,False
+CUST-11034,Enterprise,1838.32,17,Media,North America,Outbound Sales,512,True
+CUST-11035,Starter,97.37,0,Healthcare,North America,Outbound Sales,4,False
+CUST-11036,Growth,240.36,14,E-commerce,APAC,Product-Led Trial,11,False
+CUST-11037,Starter,98.02,21,Education,North America,Paid Search,80,False
+CUST-11038,Starter,183.35,3,Media,Europe,Paid Search,75,False
+CUST-11039,Starter,162.76,14,SaaS/Tech,Europe,Paid Search,19,True
+CUST-11040,Enterprise,4692.47,8,Manufacturing,APAC,Inbound/Organic,16,True
+CUST-11041,Starter,122.92,9,E-commerce,LATAM,Outbound Sales,30,False
+CUST-11042,Starter,144.91,16,FinTech,North America,Product-Led Trial,71,True
+CUST-11043,Enterprise,4686.16,15,Healthcare,North America,Product-Led Trial,11,True
+CUST-11044,Enterprise,5247.79,1,SaaS/Tech,North America,Inbound/Organic,30,True
+CUST-11045,Growth,761.59,18,Healthcare,APAC,Product-Led Trial,4,False
+CUST-11046,Starter,135.02,8,Healthcare,LATAM,Product-Led Trial,25,False
+CUST-11047,Starter,112.72,10,Manufacturing,North America,Product-Led Trial,6,False
+CUST-11048,Enterprise,3305.25,16,Healthcare,Europe,Product-Led Trial,42,True
+CUST-11049,Enterprise,7620.42,21,Professional Services,LATAM,Partner/Referral,12,True
+CUST-11050,Growth,631.95,4,E-commerce,Europe,Product-Led Trial,479,False
+CUST-11051,Enterprise,5719.31,11,Media,North America,Paid Search,19,True
+CUST-11052,Starter,88.45,2,Manufacturing,Europe,Outbound Sales,86,False
+CUST-11053,Growth,872.23,1,E-commerce,Europe,Inbound/Organic,86,False
+CUST-11054,Starter,101.29,6,Media,North America,Partner/Referral,57,True
+CUST-11055,Starter,152.45,8,E-commerce,Europe,Partner/Referral,47,False
+CUST-11056,Starter,103.54,3,Healthcare,Europe,Paid Search,13,True
+CUST-11057,Starter,102.37,0,Education,North America,Partner/Referral,19,False
+CUST-11058,Starter,76.27,11,Media,APAC,Product-Led Trial,44,True
+CUST-11059,Growth,621.19,11,Healthcare,North America,Paid Search,7,False
+CUST-11060,Starter,118.02,20,E-commerce,North America,Partner/Referral,26,False
+CUST-11061,Starter,54.28,3,SaaS/Tech,North America,Outbound Sales,94,False
+CUST-11062,Growth,873.05,8,Professional Services,North America,Product-Led Trial,27,False
+CUST-11063,Starter,139.6,8,Education,MEA,Partner/Referral,8,False
+CUST-11064,Enterprise,3243.41,13,SaaS/Tech,APAC,Inbound/Organic,19,True
+CUST-11065,Starter,106.53,16,FinTech,Europe,Inbound/Organic,53,False
+CUST-11066,Starter,95.27,15,Manufacturing,APAC,Partner/Referral,20,False
+CUST-11067,Starter,114.92,22,Education,Europe,Inbound/Organic,78,False
+CUST-11068,Enterprise,7704.81,6,Media,APAC,Product-Led Trial,59,True
+CUST-11069,Enterprise,1548.37,6,SaaS/Tech,APAC,Partner/Referral,3,True
+CUST-11070,Enterprise,3834.02,3,E-commerce,MEA,Inbound/Organic,29,True
+CUST-11071,Enterprise,3904.98,21,Media,Europe,Inbound/Organic,7,True
+CUST-11072,Starter,82.66,12,Professional Services,MEA,Paid Search,89,False
+CUST-11073,Starter,167.05,2,FinTech,North America,Inbound/Organic,38,False
+CUST-11074,Enterprise,7517.63,2,E-commerce,Europe,Inbound/Organic,5,True
+CUST-11075,Starter,66.89,14,Manufacturing,Europe,Product-Led Trial,57,False
+CUST-11076,Starter,109.7,8,SaaS/Tech,North America,Paid Search,15,False
+CUST-11077,Enterprise,4212.79,5,FinTech,APAC,Outbound Sales,119,True
+CUST-11078,Starter,134.9,3,Media,Europe,Product-Led Trial,5,False
+CUST-11079,Growth,847.67,13,Healthcare,Europe,Inbound/Organic,19,False
+CUST-11080,Starter,100.3,7,Media,North America,Partner/Referral,21,False
+CUST-11081,Starter,160.95,3,Healthcare,LATAM,Outbound Sales,16,False
+CUST-11082,Growth,736.75,20,Manufacturing,North America,Inbound/Organic,22,False
+CUST-11083,Starter,172.69,0,SaaS/Tech,Europe,Inbound/Organic,194,False
+CUST-11084,Growth,914.91,17,SaaS/Tech,MEA,Product-Led Trial,5,False
+CUST-11085,Starter,75.41,17,Education,North America,Paid Search,12,False
+CUST-11086,Enterprise,6400.99,14,Manufacturing,APAC,Outbound Sales,49,True
+CUST-11087,Enterprise,4310.16,15,FinTech,Europe,Partner/Referral,16,True
+CUST-11088,Growth,976.0,12,Media,Europe,Partner/Referral,41,False
+CUST-11089,Growth,910.86,8,E-commerce,LATAM,Outbound Sales,9,False
+CUST-11090,Growth,460.14,2,Education,Europe,Paid Search,13,True
+CUST-11091,Growth,465.82,1,Professional Services,North America,Product-Led Trial,29,False
+CUST-11092,Growth,295.79,16,SaaS/Tech,APAC,Paid Search,46,False
+CUST-11093,Growth,734.84,8,Healthcare,APAC,Product-Led Trial,54,False
+CUST-11094,Starter,149.68,18,Media,APAC,Paid Search,16,False
+CUST-11095,Growth,905.39,10,E-commerce,Europe,Paid Search,62,False
+CUST-11096,Growth,432.98,0,Professional Services,LATAM,Outbound Sales,315,False
+CUST-11097,Starter,164.21,10,Healthcare,North America,Inbound/Organic,47,False
+CUST-11098,Growth,313.08,2,FinTech,Europe,Inbound/Organic,9,False
+CUST-11099,Starter,90.59,0,Education,APAC,Outbound Sales,165,False
+CUST-11100,Growth,835.83,18,Professional Services,North America,Outbound Sales,11,False
+CUST-11101,Growth,244.22,22,Healthcare,APAC,Paid Search,3,False
+CUST-11102,Enterprise,4878.41,18,SaaS/Tech,North America,Product-Led Trial,156,True
+CUST-11103,Growth,844.39,21,FinTech,MEA,Inbound/Organic,12,False
+CUST-11104,Starter,144.08,20,E-commerce,North America,Partner/Referral,6,False
+CUST-11105,Starter,169.88,18,Media,North America,Paid Search,33,False
+CUST-11106,Growth,441.81,0,FinTech,North America,Inbound/Organic,482,False
+CUST-11107,Enterprise,5218.69,17,FinTech,North America,Product-Led Trial,59,True
+CUST-11108,Starter,156.0,6,SaaS/Tech,Europe,Outbound Sales,34,False
+CUST-11109,Growth,398.91,15,Education,North America,Paid Search,13,False
+CUST-11110,Enterprise,7281.09,12,E-commerce,Europe,Partner/Referral,24,True
+CUST-11111,Starter,187.63,20,SaaS/Tech,North America,Product-Led Trial,52,False
+CUST-11112,Starter,146.84,19,SaaS/Tech,North America,Inbound/Organic,10,True
+CUST-11113,Starter,196.95,12,Professional Services,North America,Product-Led Trial,9,False
+CUST-11114,Starter,124.97,2,E-commerce,North America,Inbound/Organic,15,False
+CUST-11115,Starter,137.0,1,SaaS/Tech,Europe,Outbound Sales,336,False
+CUST-11116,Starter,106.17,6,Professional Services,APAC,Product-Led Trial,18,False
+CUST-11117,Starter,67.83,3,Manufacturing,LATAM,Inbound/Organic,5,False
+CUST-11118,Enterprise,6869.84,13,SaaS/Tech,Europe,Paid Search,12,True
+CUST-11119,Growth,873.12,18,Manufacturing,Europe,Product-Led Trial,38,True
+CUST-11120,Starter,153.7,14,FinTech,North America,Outbound Sales,30,False
+CUST-11121,Growth,904.64,22,E-commerce,North America,Paid Search,7,True
+CUST-11122,Growth,452.78,11,E-commerce,Europe,Partner/Referral,305,False
+CUST-11123,Starter,146.08,19,Manufacturing,North America,Outbound Sales,191,True
+CUST-11124,Growth,650.79,12,Manufacturing,APAC,Outbound Sales,23,False
+CUST-11125,Enterprise,2926.65,2,FinTech,APAC,Outbound Sales,51,True
+CUST-11126,Enterprise,5942.41,8,FinTech,North America,Partner/Referral,3,True
+CUST-11127,Growth,806.44,11,SaaS/Tech,MEA,Inbound/Organic,9,False
+CUST-11128,Starter,169.85,5,Healthcare,Europe,Inbound/Organic,70,False
+CUST-11129,Starter,119.92,19,Manufacturing,Europe,Partner/Referral,141,False
+CUST-11130,Starter,96.4,16,FinTech,Europe,Paid Search,36,False
+CUST-11131,Enterprise,6384.75,12,FinTech,North America,Inbound/Organic,42,True
+CUST-11132,Starter,125.46,5,Professional Services,Europe,Paid Search,6,True
+CUST-11133,Enterprise,7781.72,11,Manufacturing,APAC,Outbound Sales,47,True
+CUST-11134,Starter,191.53,6,E-commerce,Europe,Outbound Sales,58,False
+CUST-11135,Starter,196.29,11,Education,North America,Product-Led Trial,10,False
+CUST-11136,Enterprise,7878.57,18,Education,North America,Outbound Sales,7,True
+CUST-11137,Starter,89.58,21,Professional Services,Europe,Outbound Sales,3,False
+CUST-11138,Starter,114.8,9,Education,APAC,Outbound Sales,74,True
+CUST-11139,Growth,929.73,10,E-commerce,Europe,Paid Search,6,False
+CUST-11140,Starter,117.3,17,FinTech,APAC,Paid Search,12,False
+CUST-11141,Growth,490.62,15,FinTech,North America,Outbound Sales,33,True
+CUST-11142,Growth,873.59,3,Healthcare,Europe,Paid Search,12,False
+CUST-11143,Starter,86.48,19,E-commerce,Europe,Partner/Referral,61,False
+CUST-11144,Starter,50.6,7,Professional Services,APAC,Partner/Referral,5,True
+CUST-11145,Growth,279.08,17,Media,APAC,Paid Search,53,False
+CUST-11146,Starter,117.54,17,E-commerce,APAC,Partner/Referral,57,False
+CUST-11147,Growth,768.08,21,SaaS/Tech,North America,Inbound/Organic,48,False
+CUST-11148,Growth,840.3,0,Healthcare,North America,Partner/Referral,5,False
+CUST-11149,Starter,114.02,14,Healthcare,LATAM,Inbound/Organic,86,True
+CUST-11150,Starter,172.04,19,E-commerce,North America,Outbound Sales,138,False
+CUST-11151,Enterprise,2749.71,1,FinTech,Europe,Paid Search,13,True
+CUST-11152,Growth,450.71,16,FinTech,North America,Partner/Referral,21,False
+CUST-11153,Starter,176.56,15,FinTech,North America,Product-Led Trial,70,False
+CUST-11154,Growth,979.89,10,Media,LATAM,Partner/Referral,127,True
+CUST-11155,Starter,170.1,11,Manufacturing,North America,Outbound Sales,13,False
+CUST-11156,Growth,358.64,3,E-commerce,Europe,Paid Search,2,False
+CUST-11157,Growth,526.18,18,E-commerce,APAC,Partner/Referral,24,False
+CUST-11158,Growth,834.32,22,Education,Europe,Inbound/Organic,23,True
+CUST-11159,Starter,174.83,3,Healthcare,Europe,Partner/Referral,21,False
+CUST-11160,Enterprise,3615.24,21,Education,North America,Product-Led Trial,25,True
+CUST-11161,Starter,67.04,9,Education,Europe,Inbound/Organic,44,False
+CUST-11162,Starter,94.81,14,SaaS/Tech,North America,Paid Search,46,False
+CUST-11163,Starter,166.49,20,Healthcare,North America,Inbound/Organic,9,False
+CUST-11164,Starter,103.48,22,Professional Services,APAC,Outbound Sales,7,False
+CUST-11165,Growth,926.87,0,Media,North America,Outbound Sales,45,True
+CUST-11166,Starter,50.02,10,Healthcare,North America,Paid Search,10,False
+CUST-11167,Enterprise,4641.12,9,Professional Services,LATAM,Inbound/Organic,14,True
+CUST-11168,Growth,296.08,16,Manufacturing,North America,Product-Led Trial,48,True
+CUST-11169,Starter,110.11,17,Education,North America,Product-Led Trial,3,False
+CUST-11170,Starter,191.03,1,Professional Services,North America,Partner/Referral,33,False
+CUST-11171,Starter,152.3,14,FinTech,APAC,Product-Led Trial,42,False
+CUST-11172,Starter,63.64,2,Professional Services,North America,Outbound Sales,36,False
+CUST-11173,Starter,49.68,20,Professional Services,APAC,Product-Led Trial,26,True
+CUST-11174,Starter,86.99,4,Manufacturing,Europe,Paid Search,96,False
+CUST-11175,Growth,487.57,4,Education,North America,Outbound Sales,63,False
+CUST-11176,Enterprise,7849.54,17,E-commerce,Europe,Inbound/Organic,19,True
+CUST-11177,Starter,80.53,11,Media,North America,Outbound Sales,19,True
+CUST-11178,Growth,491.71,15,SaaS/Tech,APAC,Paid Search,46,False
+CUST-11179,Growth,537.53,8,Education,North America,Product-Led Trial,401,False
+CUST-11180,Starter,157.44,5,E-commerce,APAC,Product-Led Trial,16,True
+CUST-11181,Growth,974.58,17,FinTech,North America,Product-Led Trial,23,False
+CUST-11182,Enterprise,6811.35,7,Manufacturing,North America,Inbound/Organic,24,True
+CUST-11183,Growth,391.97,4,FinTech,Europe,Outbound Sales,15,False
+CUST-11184,Starter,125.28,9,Healthcare,North America,Product-Led Trial,20,True
+CUST-11185,Starter,57.88,19,Professional Services,North America,Inbound/Organic,50,False
+CUST-11186,Starter,172.8,15,Media,LATAM,Partner/Referral,18,True
+CUST-11187,Growth,518.32,3,Media,North America,Inbound/Organic,6,False
+CUST-11188,Growth,856.44,11,Education,North America,Paid Search,259,False
+CUST-11189,Starter,176.87,16,FinTech,APAC,Outbound Sales,14,False
+CUST-11190,Growth,241.3,15,FinTech,North America,Product-Led Trial,141,False
+CUST-11191,Growth,694.06,21,Healthcare,North America,Partner/Referral,27,False
+CUST-11192,Growth,629.97,17,Manufacturing,North America,Outbound Sales,38,False
+CUST-11193,Growth,336.37,18,Professional Services,APAC,Partner/Referral,4,False
+CUST-11194,Growth,432.9,11,Healthcare,MEA,Product-Led Trial,67,False
+CUST-11195,Growth,559.48,15,Professional Services,North America,Paid Search,52,False
+CUST-11196,Enterprise,3494.57,19,Manufacturing,North America,Product-Led Trial,2,True
+CUST-11197,Enterprise,6406.88,19,Professional Services,APAC,Outbound Sales,34,True
+CUST-11198,Growth,319.74,4,FinTech,North America,Paid Search,11,False
+CUST-11199,Starter,68.55,21,Healthcare,North America,Inbound/Organic,16,False
+CUST-11200,Enterprise,2727.23,2,FinTech,North America,Outbound Sales,13,True
+CUST-11201,Growth,242.38,9,Education,Europe,Inbound/Organic,30,False
+CUST-11202,Enterprise,1822.33,15,E-commerce,Europe,Inbound/Organic,13,True
+CUST-11203,Enterprise,1991.28,2,Media,MEA,Product-Led Trial,180,True
+CUST-11204,Enterprise,7310.4,16,Manufacturing,APAC,Outbound Sales,66,True
+CUST-11205,Enterprise,1669.02,11,E-commerce,North America,Partner/Referral,4,True
+CUST-11206,Starter,179.99,21,SaaS/Tech,APAC,Product-Led Trial,68,True
+CUST-11207,Growth,385.03,11,FinTech,APAC,Inbound/Organic,57,False
+CUST-11208,Enterprise,2300.82,19,E-commerce,MEA,Product-Led Trial,29,True
+CUST-11209,Growth,940.66,21,Education,APAC,Product-Led Trial,79,True
+CUST-11210,Starter,194.23,16,Education,LATAM,Outbound Sales,73,False
+CUST-11211,Starter,192.39,17,Healthcare,Europe,Product-Led Trial,84,False
+CUST-11212,Growth,834.28,4,Manufacturing,North America,Paid Search,23,False
+CUST-11213,Growth,707.49,6,Professional Services,North America,Inbound/Organic,15,False
+CUST-11214,Growth,321.59,13,FinTech,MEA,Paid Search,31,False
+CUST-11215,Enterprise,5614.09,6,FinTech,Europe,Partner/Referral,72,True
+CUST-11216,Enterprise,6919.96,11,Media,LATAM,Product-Led Trial,13,True
+CUST-11217,Starter,197.92,15,Professional Services,North America,Partner/Referral,19,False
+CUST-11218,Enterprise,2193.71,8,Education,APAC,Partner/Referral,619,True
+CUST-11219,Enterprise,7299.37,10,Professional Services,North America,Inbound/Organic,7,True
+CUST-11220,Starter,92.03,1,Manufacturing,LATAM,Product-Led Trial,9,False
+CUST-11221,Starter,81.37,17,Healthcare,North America,Partner/Referral,6,False
+CUST-11222,Growth,575.79,22,E-commerce,APAC,Product-Led Trial,3,True
+CUST-11223,Growth,680.51,12,Healthcare,North America,Outbound Sales,37,False
+CUST-11224,Starter,127.08,2,Professional Services,Europe,Paid Search,23,False
+CUST-11225,Starter,152.12,8,Media,Europe,Partner/Referral,25,False
+CUST-11226,Starter,112.53,1,E-commerce,LATAM,Partner/Referral,26,False
+CUST-11227,Starter,175.68,2,Healthcare,Europe,Partner/Referral,145,False
+CUST-11228,Starter,178.35,6,Media,APAC,Paid Search,4,False
+CUST-11229,Enterprise,4199.17,14,Healthcare,Europe,Outbound Sales,11,True
+CUST-11230,Starter,111.72,3,Education,Europe,Inbound/Organic,2,True
+CUST-11231,Growth,370.78,10,FinTech,Europe,Partner/Referral,3,False
+CUST-11232,Starter,115.11,3,Media,LATAM,Paid Search,2,True
+CUST-11233,Growth,642.78,9,Healthcare,APAC,Paid Search,4,False
+CUST-11234,Enterprise,1951.53,3,Professional Services,North America,Paid Search,7,True
+CUST-11235,Starter,184.66,12,Education,MEA,Inbound/Organic,33,False
+CUST-11236,Growth,452.21,21,Professional Services,North America,Paid Search,15,False
+CUST-11237,Starter,92.97,21,SaaS/Tech,North America,Partner/Referral,25,False
+CUST-11238,Starter,117.92,8,E-commerce,Europe,Inbound/Organic,99,False
+CUST-11239,Enterprise,5718.41,10,Media,Europe,Partner/Referral,56,True
+CUST-11240,Starter,148.62,20,Healthcare,LATAM,Inbound/Organic,87,False
+CUST-11241,Enterprise,6825.34,18,SaaS/Tech,Europe,Paid Search,78,True
+CUST-11242,Starter,75.41,7,E-commerce,North America,Partner/Referral,30,False
+CUST-11243,Starter,62.47,20,Professional Services,Europe,Paid Search,23,False
+CUST-11244,Starter,141.62,3,Healthcare,Europe,Inbound/Organic,31,False
+CUST-11245,Starter,75.04,21,E-commerce,North America,Inbound/Organic,9,False
+CUST-11246,Growth,290.74,19,E-commerce,Europe,Product-Led Trial,16,False
+CUST-11247,Starter,87.21,6,Healthcare,Europe,Partner/Referral,33,False
+CUST-11248,Growth,470.99,4,SaaS/Tech,North America,Partner/Referral,81,False
+CUST-11249,Starter,114.38,14,Media,North America,Paid Search,13,False
+CUST-11250,Starter,149.23,4,Media,North America,Paid Search,14,False
+CUST-11251,Starter,125.02,0,E-commerce,Europe,Outbound Sales,161,False
+CUST-11252,Starter,71.04,21,Manufacturing,APAC,Partner/Referral,120,True
+CUST-11253,Starter,79.46,15,Professional Services,APAC,Partner/Referral,14,False
+CUST-11254,Growth,668.36,3,Professional Services,Europe,Outbound Sales,49,False
+CUST-11255,Enterprise,5920.63,5,E-commerce,Europe,Product-Led Trial,5,True
+CUST-11256,Growth,872.7,20,Media,North America,Outbound Sales,6,False
+CUST-11257,Growth,825.89,8,FinTech,North America,Partner/Referral,80,False
+CUST-11258,Enterprise,1133.3,17,Education,LATAM,Paid Search,25,True
+CUST-11259,Growth,315.19,11,Manufacturing,North America,Product-Led Trial,11,True
+CUST-11260,Growth,697.0,6,Healthcare,APAC,Partner/Referral,136,False
+CUST-11261,Starter,186.56,12,FinTech,Europe,Product-Led Trial,2,False
+CUST-11262,Growth,322.91,14,E-commerce,LATAM,Product-Led Trial,2,True
+CUST-11263,Starter,113.33,3,Media,North America,Paid Search,51,False
+CUST-11264,Enterprise,3087.36,19,SaaS/Tech,Europe,Inbound/Organic,53,True
+CUST-11265,Growth,803.59,18,Media,Europe,Product-Led Trial,18,False
+CUST-11266,Growth,988.14,1,Professional Services,APAC,Paid Search,126,True
+CUST-11267,Enterprise,6874.35,15,SaaS/Tech,North America,Inbound/Organic,50,True
+CUST-11268,Starter,137.87,22,Manufacturing,MEA,Partner/Referral,145,True
+CUST-11269,Starter,71.13,19,Media,North America,Inbound/Organic,13,False
+CUST-11270,Growth,511.66,2,Manufacturing,LATAM,Product-Led Trial,36,False
+CUST-11271,Starter,135.54,15,Manufacturing,APAC,Paid Search,40,False
+CUST-11272,Starter,97.4,9,Manufacturing,APAC,Paid Search,86,False
+CUST-11273,Growth,723.0,20,SaaS/Tech,APAC,Inbound/Organic,12,False
+CUST-11274,Growth,656.5,10,Professional Services,North America,Product-Led Trial,4,False
+CUST-11275,Starter,153.08,21,Education,Europe,Partner/Referral,136,False
+CUST-11276,Growth,818.14,9,Healthcare,Europe,Partner/Referral,8,False
+CUST-11277,Enterprise,5113.86,0,Education,North America,Product-Led Trial,125,True
+CUST-11278,Growth,699.33,11,Education,North America,Inbound/Organic,74,True
+CUST-11279,Starter,86.62,16,SaaS/Tech,APAC,Inbound/Organic,2,False
+CUST-11280,Starter,73.24,4,Professional Services,APAC,Inbound/Organic,19,True
+CUST-11281,Enterprise,1272.12,22,E-commerce,North America,Outbound Sales,21,True
+CUST-11282,Starter,129.03,18,E-commerce,LATAM,Paid Search,8,False
+CUST-11283,Starter,101.23,21,Healthcare,APAC,Partner/Referral,29,False
+CUST-11284,Starter,135.57,21,Education,Europe,Inbound/Organic,15,False
+CUST-11285,Starter,117.42,2,Manufacturing,North America,Partner/Referral,9,False
+CUST-11286,Growth,854.47,22,Healthcare,North America,Inbound/Organic,43,False
+CUST-11287,Starter,136.16,14,Education,APAC,Partner/Referral,20,False
+CUST-11288,Starter,172.7,21,Education,LATAM,Outbound Sales,14,False
+CUST-11289,Starter,160.12,15,FinTech,APAC,Inbound/Organic,132,False
+CUST-11290,Starter,119.48,17,Healthcare,APAC,Paid Search,56,False
+CUST-11291,Enterprise,1289.62,17,Education,Europe,Product-Led Trial,115,True
+CUST-11292,Enterprise,3022.56,22,Manufacturing,North America,Partner/Referral,13,True
+CUST-11293,Enterprise,6597.75,5,Education,Europe,Partner/Referral,7,True
+CUST-11294,Enterprise,4694.41,6,Professional Services,Europe,Inbound/Organic,75,True
+CUST-11295,Starter,145.58,22,FinTech,North America,Product-Led Trial,226,False
+CUST-11296,Growth,915.16,0,Manufacturing,MEA,Paid Search,161,False
+CUST-11297,Starter,129.27,22,Manufacturing,North America,Partner/Referral,57,False
+CUST-11298,Growth,458.0,17,Media,Europe,Paid Search,15,False
+CUST-11299,Growth,535.48,8,Education,Europe,Paid Search,26,False
+CUST-11300,Starter,144.15,19,SaaS/Tech,Europe,Partner/Referral,148,False
+CUST-11301,Enterprise,5465.51,18,Manufacturing,North America,Partner/Referral,80,True
+CUST-11302,Growth,421.32,10,Media,North America,Product-Led Trial,15,True
+CUST-11303,Growth,696.84,19,Healthcare,Europe,Outbound Sales,4,False
+CUST-11304,Starter,56.17,8,Professional Services,North America,Paid Search,90,False
+CUST-11305,Growth,200.04,12,SaaS/Tech,APAC,Partner/Referral,76,True
+CUST-11306,Enterprise,6668.52,5,Healthcare,APAC,Partner/Referral,25,True
+CUST-11307,Starter,180.53,3,Manufacturing,LATAM,Outbound Sales,6,False
+CUST-11308,Starter,154.12,21,Healthcare,North America,Product-Led Trial,114,True
+CUST-11309,Growth,676.62,5,Media,Europe,Product-Led Trial,32,False
+CUST-11310,Growth,513.63,12,Media,APAC,Outbound Sales,20,False
+CUST-11311,Starter,159.52,9,Healthcare,North America,Partner/Referral,53,False
+CUST-11312,Starter,168.63,7,Manufacturing,Europe,Partner/Referral,19,True
+CUST-11313,Enterprise,4594.49,20,Manufacturing,LATAM,Partner/Referral,8,True
+CUST-11314,Starter,89.29,13,SaaS/Tech,APAC,Partner/Referral,5,False
+CUST-11315,Growth,461.45,19,Manufacturing,North America,Inbound/Organic,53,False
+CUST-11316,Starter,164.84,2,E-commerce,Europe,Inbound/Organic,23,False
+CUST-11317,Starter,92.38,7,Education,APAC,Product-Led Trial,22,False
+CUST-11318,Enterprise,5512.71,16,Professional Services,MEA,Product-Led Trial,103,True
+CUST-11319,Enterprise,7543.59,8,FinTech,Europe,Partner/Referral,26,True
+CUST-11320,Enterprise,3828.77,3,E-commerce,Europe,Paid Search,4,True
+CUST-11321,Growth,703.31,5,Manufacturing,Europe,Partner/Referral,242,True
+CUST-11322,Starter,123.26,7,Media,APAC,Paid Search,77,False
+CUST-11323,Starter,101.14,10,SaaS/Tech,North America,Partner/Referral,24,False
+CUST-11324,Growth,827.82,7,Healthcare,North America,Partner/Referral,34,False
+CUST-11325,Starter,76.35,16,Media,APAC,Paid Search,19,False
+CUST-11326,Enterprise,5869.74,15,SaaS/Tech,Europe,Product-Led Trial,16,True
+CUST-11327,Growth,339.17,5,E-commerce,APAC,Outbound Sales,8,False
+CUST-11328,Growth,873.9,2,E-commerce,North America,Outbound Sales,46,False
+CUST-11329,Enterprise,1786.68,7,Professional Services,APAC,Paid Search,37,True
+CUST-11330,Starter,167.22,11,Manufacturing,APAC,Inbound/Organic,21,False
+CUST-11331,Growth,239.98,18,E-commerce,Europe,Product-Led Trial,21,False
+CUST-11332,Growth,823.85,7,E-commerce,North America,Product-Led Trial,23,False
+CUST-11333,Growth,937.18,12,FinTech,North America,Outbound Sales,132,False
+CUST-11334,Growth,500.37,6,FinTech,LATAM,Outbound Sales,6,True
+CUST-11335,Growth,775.04,21,Professional Services,North America,Outbound Sales,98,False
+CUST-11336,Starter,127.98,18,E-commerce,North America,Outbound Sales,3,False
+CUST-11337,Starter,83.84,20,FinTech,North America,Partner/Referral,44,False
+CUST-11338,Growth,802.4,9,Professional Services,Europe,Product-Led Trial,96,True
+CUST-11339,Enterprise,1057.02,6,E-commerce,Europe,Inbound/Organic,50,True
+CUST-11340,Enterprise,1212.37,20,FinTech,Europe,Partner/Referral,38,True
+CUST-11341,Starter,154.17,10,Manufacturing,North America,Product-Led Trial,38,False
+CUST-11342,Growth,331.54,21,Media,Europe,Paid Search,16,False
+CUST-11343,Starter,139.2,17,Education,North America,Inbound/Organic,29,False
+CUST-11344,Growth,316.95,9,SaaS/Tech,APAC,Outbound Sales,6,False
+CUST-11345,Starter,159.35,3,E-commerce,APAC,Inbound/Organic,99,False
+CUST-11346,Growth,425.64,12,Professional Services,North America,Product-Led Trial,53,False
+CUST-11347,Enterprise,6706.26,15,Professional Services,LATAM,Inbound/Organic,35,True
+CUST-11348,Starter,152.32,2,Media,North America,Inbound/Organic,25,True
+CUST-11349,Starter,75.88,4,SaaS/Tech,Europe,Paid Search,2,True
+CUST-11350,Growth,691.87,17,Manufacturing,Europe,Partner/Referral,49,False
+CUST-11351,Starter,54.91,2,Education,North America,Outbound Sales,26,False
+CUST-11352,Starter,153.73,16,Education,North America,Paid Search,5,False
+CUST-11353,Starter,122.6,14,Professional Services,APAC,Product-Led Trial,62,False
+CUST-11354,Growth,982.16,1,Education,North America,Paid Search,75,False
+CUST-11355,Starter,144.14,8,Professional Services,North America,Product-Led Trial,15,False
+CUST-11356,Starter,101.2,11,Manufacturing,North America,Product-Led Trial,47,True
+CUST-11357,Enterprise,6133.53,1,Education,APAC,Paid Search,23,True
+CUST-11358,Starter,125.07,17,Education,LATAM,Partner/Referral,30,False
+CUST-11359,Starter,100.04,0,E-commerce,LATAM,Inbound/Organic,14,False
+CUST-11360,Starter,64.36,1,SaaS/Tech,North America,Paid Search,71,True
+CUST-11361,Starter,90.14,5,Healthcare,North America,Product-Led Trial,64,False
+CUST-11362,Starter,59.28,21,FinTech,North America,Product-Led Trial,7,False
+CUST-11363,Starter,88.44,13,Manufacturing,Europe,Paid Search,25,False
+CUST-11364,Starter,51.88,6,Media,North America,Paid Search,2,False
+CUST-11365,Starter,85.58,6,E-commerce,APAC,Product-Led Trial,20,False
+CUST-11366,Enterprise,1730.6,0,E-commerce,LATAM,Paid Search,9,True
+CUST-11367,Starter,59.73,15,SaaS/Tech,APAC,Outbound Sales,47,False
+CUST-11368,Enterprise,3989.93,16,Healthcare,MEA,Outbound Sales,41,True
+CUST-11369,Starter,186.01,9,Healthcare,APAC,Product-Led Trial,63,False
+CUST-11370,Enterprise,6541.87,16,Media,North America,Partner/Referral,6,True
+CUST-11371,Starter,173.95,6,Education,North America,Inbound/Organic,25,False
+CUST-11372,Starter,82.73,20,Media,Europe,Paid Search,20,False
+CUST-11373,Enterprise,3514.13,21,SaaS/Tech,APAC,Product-Led Trial,33,True
+CUST-11374,Starter,135.84,21,Education,Europe,Product-Led Trial,80,False
+CUST-11375,Starter,70.12,11,Manufacturing,Europe,Partner/Referral,107,False
+CUST-11376,Growth,219.16,13,FinTech,North America,Outbound Sales,3,False
+CUST-11377,Starter,174.34,16,Healthcare,Europe,Product-Led Trial,15,False
+CUST-11378,Growth,365.33,18,Media,Europe,Outbound Sales,110,False
+CUST-11379,Starter,156.35,10,Healthcare,North America,Partner/Referral,28,False
+CUST-11380,Starter,132.24,17,Manufacturing,APAC,Paid Search,19,False
+CUST-11381,Starter,74.46,10,FinTech,APAC,Product-Led Trial,2,False
+CUST-11382,Growth,408.25,4,E-commerce,North America,Inbound/Organic,7,False
+CUST-11383,Starter,175.3,4,Manufacturing,Europe,Outbound Sales,30,True
+CUST-11384,Starter,144.67,7,Manufacturing,North America,Partner/Referral,99,False
+CUST-11385,Starter,149.55,12,SaaS/Tech,LATAM,Product-Led Trial,26,False
+CUST-11386,Starter,165.94,2,FinTech,MEA,Outbound Sales,35,False
+CUST-11387,Starter,194.63,8,Professional Services,LATAM,Outbound Sales,5,False
+CUST-11388,Starter,162.31,6,Healthcare,Europe,Inbound/Organic,8,False
+CUST-11389,Growth,571.41,7,Manufacturing,MEA,Product-Led Trial,14,False
+CUST-11390,Starter,184.9,8,E-commerce,Europe,Inbound/Organic,133,True
+CUST-11391,Starter,124.32,16,SaaS/Tech,North America,Product-Led Trial,32,False
+CUST-11392,Starter,122.21,19,Manufacturing,LATAM,Partner/Referral,7,False
+CUST-11393,Growth,359.81,3,E-commerce,Europe,Partner/Referral,177,False
+CUST-11394,Starter,87.47,12,FinTech,North America,Inbound/Organic,59,False
+CUST-11395,Growth,676.23,2,E-commerce,North America,Partner/Referral,11,False
+CUST-11396,Growth,889.43,21,Media,MEA,Product-Led Trial,21,False
+CUST-11397,Growth,728.35,14,Professional Services,APAC,Product-Led Trial,122,False
+CUST-11398,Starter,51.24,0,Media,North America,Outbound Sales,15,False
+CUST-11399,Growth,831.19,20,SaaS/Tech,North America,Outbound Sales,109,True
+CUST-11400,Starter,184.6,20,FinTech,Europe,Product-Led Trial,27,False
+CUST-11401,Starter,176.36,0,Media,LATAM,Partner/Referral,10,False
+CUST-11402,Growth,714.36,4,Media,North America,Product-Led Trial,13,False
+CUST-11403,Starter,80.48,1,FinTech,North America,Inbound/Organic,9,False
+CUST-11404,Growth,786.79,16,Media,Europe,Product-Led Trial,53,False
+CUST-11405,Starter,76.06,15,Professional Services,North America,Partner/Referral,8,True
+CUST-11406,Enterprise,6032.35,15,FinTech,North America,Paid Search,5,True
+CUST-11407,Enterprise,6199.12,8,Professional Services,Europe,Partner/Referral,37,True
+CUST-11408,Growth,932.96,5,Healthcare,APAC,Partner/Referral,49,True
+CUST-11409,Growth,560.75,1,Manufacturing,North America,Inbound/Organic,18,False
+CUST-11410,Enterprise,3132.45,12,Education,North America,Inbound/Organic,49,True
+CUST-11411,Starter,115.75,14,SaaS/Tech,APAC,Partner/Referral,311,False
+CUST-11412,Starter,83.12,22,FinTech,North America,Paid Search,221,False
+CUST-11413,Growth,949.93,19,Education,North America,Product-Led Trial,17,True
+CUST-11414,Enterprise,4291.99,14,Manufacturing,Europe,Paid Search,11,True
+CUST-11415,Starter,160.27,22,Education,APAC,Outbound Sales,13,False
+CUST-11416,Growth,586.93,1,Media,Europe,Partner/Referral,49,False
+CUST-11417,Starter,99.52,9,Healthcare,APAC,Inbound/Organic,127,False
+CUST-11418,Starter,121.8,20,Manufacturing,MEA,Outbound Sales,88,False
+CUST-11419,Enterprise,7092.8,15,Healthcare,North America,Inbound/Organic,3,True
+CUST-11420,Growth,957.35,14,Education,LATAM,Inbound/Organic,21,False
+CUST-11421,Starter,98.94,4,Media,Europe,Outbound Sales,46,False
+CUST-11422,Starter,189.9,18,FinTech,North America,Inbound/Organic,35,False
+CUST-11423,Starter,124.48,10,Media,North America,Product-Led Trial,45,True
+CUST-11424,Starter,75.56,7,Professional Services,LATAM,Paid Search,46,False
+CUST-11425,Starter,124.7,1,Education,LATAM,Paid Search,4,False
+CUST-11426,Enterprise,3040.62,12,Media,Europe,Inbound/Organic,16,True
+CUST-11427,Growth,810.51,13,Media,North America,Partner/Referral,14,False
+CUST-11428,Enterprise,7194.12,18,Education,Europe,Partner/Referral,2,True
+CUST-11429,Starter,165.28,1,Healthcare,North America,Inbound/Organic,350,False
+CUST-11430,Starter,140.28,14,Education,Europe,Partner/Referral,25,False
+CUST-11431,Enterprise,6651.6,21,Manufacturing,North America,Outbound Sales,151,True
+CUST-11432,Starter,79.4,6,Healthcare,North America,Paid Search,108,False
+CUST-11433,Growth,225.62,13,Manufacturing,APAC,Paid Search,246,True
+CUST-11434,Starter,146.54,6,FinTech,North America,Partner/Referral,33,False
+CUST-11435,Growth,775.93,16,FinTech,North America,Partner/Referral,34,False
+CUST-11436,Growth,525.99,21,FinTech,North America,Partner/Referral,213,False
+CUST-11437,Growth,644.29,22,Professional Services,Europe,Paid Search,41,False
+CUST-11438,Starter,140.89,20,Media,North America,Paid Search,40,False
+CUST-11439,Starter,172.17,1,Manufacturing,North America,Inbound/Organic,17,False
+CUST-11440,Enterprise,2626.35,8,Professional Services,Europe,Partner/Referral,319,True
+CUST-11441,Enterprise,5750.55,6,E-commerce,North America,Product-Led Trial,18,True
+CUST-11442,Starter,142.74,13,Media,APAC,Outbound Sales,28,False
+CUST-11443,Starter,120.62,15,FinTech,Europe,Partner/Referral,28,False
+CUST-11444,Starter,83.77,16,SaaS/Tech,APAC,Partner/Referral,40,False
+CUST-11445,Growth,226.89,16,FinTech,Europe,Paid Search,39,False
+CUST-11446,Growth,614.59,18,SaaS/Tech,Europe,Outbound Sales,204,False
+CUST-11447,Growth,575.93,11,SaaS/Tech,North America,Partner/Referral,7,True
+CUST-11448,Starter,51.01,8,Education,Europe,Inbound/Organic,69,False
+CUST-11449,Starter,127.19,2,Media,North America,Paid Search,58,False
+CUST-11450,Enterprise,6060.31,15,Professional Services,APAC,Product-Led Trial,31,True
+CUST-11451,Starter,66.8,1,Manufacturing,LATAM,Product-Led Trial,26,False
+CUST-11452,Starter,130.28,17,Professional Services,Europe,Outbound Sales,42,False
+CUST-11453,Growth,577.91,16,Healthcare,Europe,Inbound/Organic,16,False
+CUST-11454,Growth,464.15,14,Healthcare,Europe,Partner/Referral,119,False
+CUST-11455,Enterprise,2922.01,11,E-commerce,North America,Partner/Referral,39,True
+CUST-11456,Starter,157.93,8,FinTech,APAC,Outbound Sales,7,True
+CUST-11457,Starter,189.28,1,Professional Services,Europe,Outbound Sales,62,False
+CUST-11458,Starter,94.64,15,SaaS/Tech,APAC,Outbound Sales,2,False
+CUST-11459,Growth,506.97,9,Healthcare,MEA,Product-Led Trial,11,False
+CUST-11460,Starter,136.64,16,E-commerce,Europe,Partner/Referral,146,False
+CUST-11461,Enterprise,5992.53,5,Professional Services,MEA,Outbound Sales,17,True
+CUST-11462,Growth,905.61,11,Manufacturing,Europe,Outbound Sales,31,False
+CUST-11463,Starter,159.77,10,Media,North America,Paid Search,124,False
+CUST-11464,Growth,925.52,11,Professional Services,LATAM,Paid Search,3,False
+CUST-11465,Starter,107.41,7,Healthcare,Europe,Partner/Referral,11,True
+CUST-11466,Growth,537.78,20,SaaS/Tech,North America,Inbound/Organic,40,False
+CUST-11467,Growth,482.69,1,Healthcare,North America,Inbound/Organic,3,False
+CUST-11468,Starter,101.57,5,E-commerce,Europe,Inbound/Organic,45,False
+CUST-11469,Growth,941.01,13,Professional Services,Europe,Partner/Referral,33,False
+CUST-11470,Starter,163.77,2,Education,APAC,Paid Search,12,False
+CUST-11471,Growth,246.0,2,Media,North America,Paid Search,40,False
+CUST-11472,Starter,139.23,20,FinTech,MEA,Inbound/Organic,18,False
+CUST-11473,Growth,242.37,3,E-commerce,APAC,Paid Search,19,False
+CUST-11474,Growth,403.12,8,Healthcare,LATAM,Outbound Sales,18,False
+CUST-11475,Growth,396.55,6,SaaS/Tech,APAC,Product-Led Trial,32,False
+CUST-11476,Starter,160.83,8,SaaS/Tech,Europe,Inbound/Organic,27,False
+CUST-11477,Growth,515.93,17,Professional Services,Europe,Outbound Sales,37,False
+CUST-11478,Starter,168.06,19,Education,North America,Partner/Referral,8,False
+CUST-11479,Starter,72.59,3,Healthcare,Europe,Outbound Sales,12,False
+CUST-11480,Starter,166.14,5,Education,North America,Outbound Sales,16,False
+CUST-11481,Enterprise,7995.55,13,Healthcare,MEA,Outbound Sales,77,True
+CUST-11482,Growth,564.3,6,Education,APAC,Outbound Sales,67,False
+CUST-11483,Growth,580.31,21,E-commerce,Europe,Outbound Sales,8,False
+CUST-11484,Enterprise,6700.93,1,Manufacturing,North America,Product-Led Trial,6,True
+CUST-11485,Starter,118.15,4,SaaS/Tech,North America,Outbound Sales,33,False
+CUST-11486,Starter,103.08,6,Healthcare,Europe,Paid Search,79,False
+CUST-11487,Starter,118.27,16,Manufacturing,North America,Outbound Sales,37,False
+CUST-11488,Growth,797.44,6,Education,Europe,Product-Led Trial,4,False
+CUST-11489,Starter,84.32,4,Healthcare,Europe,Paid Search,78,False
+CUST-11490,Growth,438.14,16,FinTech,North America,Inbound/Organic,11,False
+CUST-11491,Growth,904.49,20,Media,North America,Inbound/Organic,25,False
+CUST-11492,Starter,115.37,6,SaaS/Tech,Europe,Inbound/Organic,153,False
+CUST-11493,Growth,742.44,5,FinTech,Europe,Paid Search,34,False
+CUST-11494,Starter,156.11,20,Manufacturing,APAC,Paid Search,28,False
+CUST-11495,Starter,62.55,22,Education,APAC,Partner/Referral,12,False
+CUST-11496,Growth,813.06,0,E-commerce,Europe,Product-Led Trial,15,False
+CUST-11497,Starter,109.28,22,Healthcare,Europe,Partner/Referral,55,False
+CUST-11498,Starter,177.74,17,FinTech,North America,Paid Search,25,False
+CUST-11499,Growth,634.61,12,Media,North America,Paid Search,53,False
+CUST-11500,Growth,353.4,3,Education,North America,Outbound Sales,28,False
+CUST-11501,Enterprise,4305.97,16,FinTech,Europe,Paid Search,20,True
+CUST-11502,Starter,97.15,2,FinTech,LATAM,Partner/Referral,6,False
+CUST-11503,Enterprise,5901.32,19,FinTech,North America,Partner/Referral,168,True
+CUST-11504,Growth,368.29,8,Manufacturing,North America,Paid Search,5,False
+CUST-11505,Enterprise,6238.23,15,Professional Services,Europe,Outbound Sales,15,True
+CUST-11506,Starter,101.24,10,FinTech,Europe,Partner/Referral,14,False
+CUST-11507,Growth,921.32,14,Professional Services,Europe,Partner/Referral,7,False
+CUST-11508,Growth,793.22,4,Media,North America,Partner/Referral,22,False
+CUST-11509,Growth,412.17,0,E-commerce,LATAM,Inbound/Organic,45,False
+CUST-11510,Starter,60.12,8,FinTech,APAC,Paid Search,23,False
+CUST-11511,Starter,183.21,4,Professional Services,LATAM,Partner/Referral,30,False
+CUST-11512,Starter,158.6,13,E-commerce,APAC,Inbound/Organic,20,False
+CUST-11513,Starter,49.51,21,SaaS/Tech,Europe,Inbound/Organic,74,False
+CUST-11514,Starter,76.23,10,Media,APAC,Outbound Sales,46,False
+CUST-11515,Growth,211.88,12,Professional Services,North America,Inbound/Organic,166,False
+CUST-11516,Starter,117.39,16,Education,APAC,Partner/Referral,17,False
+CUST-11517,Starter,181.41,20,Media,MEA,Partner/Referral,28,False
+CUST-11518,Starter,68.95,3,E-commerce,North America,Inbound/Organic,171,False
+CUST-11519,Growth,292.83,14,Professional Services,North America,Paid Search,96,False
+CUST-11520,Enterprise,1262.89,13,SaaS/Tech,North America,Paid Search,7,True
+CUST-11521,Growth,909.37,1,Education,North America,Inbound/Organic,54,False
+CUST-11522,Growth,490.96,4,E-commerce,APAC,Outbound Sales,38,False
+CUST-11523,Growth,315.94,16,Education,North America,Outbound Sales,35,False
+CUST-11524,Starter,128.0,7,Healthcare,North America,Partner/Referral,20,True
+CUST-11525,Starter,139.93,9,FinTech,Europe,Inbound/Organic,80,False
+CUST-11526,Starter,91.5,18,Education,North America,Product-Led Trial,147,False
+CUST-11527,Growth,703.99,0,Education,North America,Paid Search,10,False
+CUST-11528,Enterprise,4470.14,4,Education,North America,Outbound Sales,77,True
+CUST-11529,Growth,361.77,1,Media,Europe,Inbound/Organic,9,False
+CUST-11530,Growth,267.95,13,SaaS/Tech,North America,Product-Led Trial,25,False
+CUST-11531,Starter,155.09,0,Education,North America,Paid Search,85,False
+CUST-11532,Starter,163.55,16,Manufacturing,North America,Outbound Sales,18,False
+CUST-11533,Growth,676.15,4,Healthcare,APAC,Outbound Sales,14,False
+CUST-11534,Starter,191.33,2,Professional Services,APAC,Partner/Referral,9,False
+CUST-11535,Starter,171.49,5,SaaS/Tech,North America,Outbound Sales,37,False
+CUST-11536,Starter,194.39,20,Professional Services,North America,Product-Led Trial,115,True
+CUST-11537,Growth,518.17,14,FinTech,North America,Inbound/Organic,31,False
+CUST-11538,Growth,639.48,21,FinTech,North America,Paid Search,22,False
+CUST-11539,Starter,116.39,10,Education,APAC,Partner/Referral,188,False
+CUST-11540,Growth,958.68,16,FinTech,North America,Inbound/Organic,101,False
+CUST-11541,Starter,145.86,15,E-commerce,North America,Inbound/Organic,18,False
+CUST-11542,Growth,790.93,2,Healthcare,APAC,Outbound Sales,11,False
+CUST-11543,Growth,610.41,11,Healthcare,North America,Partner/Referral,19,False
+CUST-11544,Growth,405.26,12,Manufacturing,APAC,Outbound Sales,99,False
+CUST-11545,Starter,81.39,18,Professional Services,North America,Inbound/Organic,4,False
+CUST-11546,Growth,595.31,3,Education,North America,Product-Led Trial,14,True
+CUST-11547,Growth,361.77,17,Healthcare,North America,Paid Search,46,True
+CUST-11548,Starter,145.45,14,Media,MEA,Paid Search,24,False
+CUST-11549,Starter,187.48,0,Manufacturing,North America,Partner/Referral,18,False
+CUST-11550,Starter,80.33,6,E-commerce,LATAM,Partner/Referral,22,True
+CUST-11551,Starter,97.57,22,E-commerce,LATAM,Paid Search,86,False
+CUST-11552,Starter,188.37,14,Healthcare,MEA,Partner/Referral,35,False
+CUST-11553,Starter,190.87,0,Healthcare,North America,Paid Search,3,False
+CUST-11554,Enterprise,3205.39,18,Education,Europe,Outbound Sales,32,True
+CUST-11555,Growth,355.5,22,SaaS/Tech,LATAM,Outbound Sales,7,False
+CUST-11556,Enterprise,1018.68,13,Healthcare,APAC,Partner/Referral,7,True
+CUST-11557,Growth,648.33,11,Education,Europe,Partner/Referral,62,True
+CUST-11558,Growth,402.73,5,Education,North America,Inbound/Organic,36,False
+CUST-11559,Growth,801.6,4,Healthcare,LATAM,Outbound Sales,6,False
+CUST-11560,Starter,137.69,10,Professional Services,North America,Outbound Sales,19,False
+CUST-11561,Starter,118.95,20,Professional Services,Europe,Product-Led Trial,17,False
+CUST-11562,Starter,191.95,17,Professional Services,North America,Partner/Referral,30,True
+CUST-11563,Enterprise,4261.61,0,Manufacturing,APAC,Partner/Referral,15,True
+CUST-11564,Starter,49.37,12,E-commerce,APAC,Product-Led Trial,28,False
+CUST-11565,Enterprise,6427.21,9,FinTech,North America,Product-Led Trial,46,True
+CUST-11566,Growth,494.33,8,SaaS/Tech,North America,Inbound/Organic,12,False
+CUST-11567,Growth,630.94,4,E-commerce,North America,Paid Search,42,False
+CUST-11568,Growth,948.78,4,E-commerce,APAC,Inbound/Organic,68,True
+CUST-11569,Growth,376.91,20,Education,North America,Paid Search,8,False
+CUST-11570,Starter,185.74,18,E-commerce,North America,Partner/Referral,25,False
+CUST-11571,Starter,58.18,2,Education,Europe,Inbound/Organic,17,False
+CUST-11572,Starter,119.54,2,E-commerce,North America,Inbound/Organic,21,False
+CUST-11573,Starter,154.03,7,Education,APAC,Partner/Referral,18,False
+CUST-11574,Enterprise,6366.36,5,Healthcare,North America,Outbound Sales,19,True
+CUST-11575,Enterprise,4636.1,9,SaaS/Tech,North America,Product-Led Trial,26,True
+CUST-11576,Starter,74.87,11,SaaS/Tech,Europe,Product-Led Trial,142,False
+CUST-11577,Starter,144.13,20,Healthcare,APAC,Inbound/Organic,15,False
+CUST-11578,Starter,176.69,21,E-commerce,North America,Outbound Sales,8,False
+CUST-11579,Growth,491.27,22,E-commerce,North America,Partner/Referral,2,False
+CUST-11580,Growth,216.15,16,E-commerce,North America,Outbound Sales,26,False
+CUST-11581,Starter,173.81,14,Education,LATAM,Product-Led Trial,18,True
+CUST-11582,Enterprise,1503.13,22,Professional Services,LATAM,Outbound Sales,10,True
+CUST-11583,Growth,249.28,20,Healthcare,Europe,Paid Search,86,False
+CUST-11584,Growth,953.96,9,Manufacturing,LATAM,Partner/Referral,5,False
+CUST-11585,Starter,97.81,8,FinTech,APAC,Paid Search,9,False
+CUST-11586,Enterprise,1634.63,21,Professional Services,Europe,Paid Search,14,True
+CUST-11587,Starter,142.38,5,Professional Services,APAC,Outbound Sales,75,False
+CUST-11588,Starter,125.86,12,Education,Europe,Paid Search,11,True
+CUST-11589,Starter,70.23,19,E-commerce,Europe,Product-Led Trial,54,False
+CUST-11590,Starter,57.54,15,Education,Europe,Outbound Sales,20,False
+CUST-11591,Enterprise,3894.48,12,Media,LATAM,Product-Led Trial,11,True
+CUST-11592,Growth,514.71,16,SaaS/Tech,North America,Outbound Sales,14,False
+CUST-11593,Growth,634.49,2,Manufacturing,North America,Product-Led Trial,26,False
+CUST-11594,Starter,149.25,12,Education,North America,Product-Led Trial,5,False
+CUST-11595,Growth,773.58,20,SaaS/Tech,LATAM,Product-Led Trial,5,True
+CUST-11596,Starter,183.37,4,Manufacturing,North America,Inbound/Organic,2,False
+CUST-11597,Growth,366.23,12,Manufacturing,Europe,Product-Led Trial,45,True
+CUST-11598,Growth,290.9,22,Healthcare,North America,Outbound Sales,92,False
+CUST-11599,Starter,85.8,19,Media,North America,Paid Search,38,True
+CUST-11600,Growth,237.87,19,Manufacturing,North America,Product-Led Trial,45,False
+CUST-11601,Starter,50.68,8,SaaS/Tech,North America,Inbound/Organic,3,False
+CUST-11602,Starter,66.46,3,E-commerce,APAC,Outbound Sales,16,True
+CUST-11603,Growth,571.43,9,Healthcare,LATAM,Paid Search,29,False
+CUST-11604,Growth,304.39,16,Media,Europe,Paid Search,8,False
+CUST-11605,Starter,172.96,0,Manufacturing,APAC,Partner/Referral,37,False
+CUST-11606,Starter,133.87,7,E-commerce,North America,Outbound Sales,4,False
+CUST-11607,Starter,179.74,19,Healthcare,MEA,Outbound Sales,4,False
+CUST-11608,Enterprise,5176.49,4,SaaS/Tech,North America,Partner/Referral,51,True
+CUST-11609,Growth,306.58,14,Healthcare,LATAM,Paid Search,4,False
+CUST-11610,Starter,162.77,21,Healthcare,North America,Inbound/Organic,4,True
+CUST-11611,Starter,135.66,9,E-commerce,Europe,Partner/Referral,37,False
+CUST-11612,Growth,794.7,11,FinTech,LATAM,Paid Search,131,False
+CUST-11613,Growth,425.58,3,SaaS/Tech,APAC,Paid Search,15,True
+CUST-11614,Starter,146.88,21,Professional Services,North America,Paid Search,7,False
+CUST-11615,Starter,116.88,17,SaaS/Tech,Europe,Partner/Referral,90,False
+CUST-11616,Growth,590.48,8,Professional Services,APAC,Paid Search,19,True
+CUST-11617,Starter,111.39,6,SaaS/Tech,North America,Paid Search,8,False
+CUST-11618,Starter,163.38,0,Manufacturing,Europe,Paid Search,29,False
+CUST-11619,Growth,495.57,19,SaaS/Tech,MEA,Paid Search,10,False
+CUST-11620,Growth,908.64,1,Media,LATAM,Product-Led Trial,61,False
+CUST-11621,Starter,162.71,14,Education,APAC,Paid Search,238,False
+CUST-11622,Starter,108.93,7,Manufacturing,North America,Partner/Referral,20,False
+CUST-11623,Starter,132.51,8,FinTech,Europe,Inbound/Organic,4,False
+CUST-11624,Starter,145.75,5,Media,Europe,Partner/Referral,168,False
+CUST-11625,Growth,780.16,5,Education,APAC,Partner/Referral,12,False
+CUST-11626,Growth,660.83,3,Healthcare,Europe,Outbound Sales,117,False
+CUST-11627,Enterprise,3055.73,17,Education,APAC,Paid Search,13,True
+CUST-11628,Starter,193.77,18,SaaS/Tech,North America,Product-Led Trial,52,False
+CUST-11629,Starter,130.53,13,Manufacturing,North America,Inbound/Organic,16,False
+CUST-11630,Growth,202.83,1,Manufacturing,North America,Product-Led Trial,54,False
+CUST-11631,Starter,155.4,16,E-commerce,APAC,Product-Led Trial,111,False
+CUST-11632,Enterprise,5987.79,17,E-commerce,North America,Outbound Sales,30,True
+CUST-11633,Growth,976.15,19,Manufacturing,LATAM,Paid Search,93,False
+CUST-11634,Starter,101.93,11,E-commerce,Europe,Paid Search,8,True
+CUST-11635,Growth,440.98,15,Education,LATAM,Paid Search,21,False
+CUST-11636,Starter,157.62,12,FinTech,Europe,Inbound/Organic,81,False
+CUST-11637,Starter,176.29,8,Healthcare,North America,Partner/Referral,30,True
+CUST-11638,Starter,138.08,22,Professional Services,LATAM,Paid Search,173,False
+CUST-11639,Starter,184.65,17,Manufacturing,Europe,Outbound Sales,29,True
+CUST-11640,Starter,183.18,4,Healthcare,Europe,Partner/Referral,63,False
+CUST-11641,Growth,968.21,21,Media,Europe,Product-Led Trial,15,False
+CUST-11642,Growth,611.47,16,Manufacturing,North America,Product-Led Trial,82,False
+CUST-11643,Enterprise,3642.82,8,Education,LATAM,Outbound Sales,16,True
+CUST-11644,Starter,174.76,9,Education,APAC,Outbound Sales,9,False
+CUST-11645,Starter,171.87,3,Media,North America,Product-Led Trial,4,False
+CUST-11646,Starter,118.61,15,Media,LATAM,Paid Search,39,False
+CUST-11647,Enterprise,1858.97,7,Manufacturing,Europe,Outbound Sales,59,True
+CUST-11648,Enterprise,1169.25,6,Professional Services,Europe,Inbound/Organic,78,True
+CUST-11649,Starter,75.25,3,Education,Europe,Inbound/Organic,3,False
+CUST-11650,Starter,93.82,11,Professional Services,MEA,Outbound Sales,22,False
+CUST-11651,Enterprise,1539.22,13,SaaS/Tech,LATAM,Outbound Sales,20,True
+CUST-11652,Starter,184.82,17,E-commerce,North America,Outbound Sales,51,False
+CUST-11653,Starter,84.52,8,Manufacturing,North America,Product-Led Trial,301,False
+CUST-11654,Starter,162.41,8,Professional Services,Europe,Paid Search,44,False
+CUST-11655,Enterprise,2827.89,6,Education,Europe,Partner/Referral,3,True
+CUST-11656,Starter,194.53,20,FinTech,Europe,Paid Search,8,False
+CUST-11657,Enterprise,7977.14,22,SaaS/Tech,Europe,Partner/Referral,15,True
+CUST-11658,Starter,129.54,1,Media,North America,Product-Led Trial,11,False
+CUST-11659,Starter,95.71,2,FinTech,Europe,Paid Search,20,False
+CUST-11660,Starter,172.32,9,SaaS/Tech,North America,Paid Search,2,False
+CUST-11661,Enterprise,6636.74,12,E-commerce,LATAM,Inbound/Organic,22,True
+CUST-11662,Growth,433.8,18,SaaS/Tech,North America,Outbound Sales,133,False
+CUST-11663,Enterprise,7073.51,21,Professional Services,North America,Paid Search,15,True
+CUST-11664,Growth,754.73,21,Healthcare,Europe,Outbound Sales,10,False
+CUST-11665,Growth,913.53,16,Healthcare,North America,Paid Search,236,False
+CUST-11666,Starter,197.02,9,Manufacturing,North America,Product-Led Trial,38,False
+CUST-11667,Growth,771.17,11,SaaS/Tech,North America,Partner/Referral,62,False
+CUST-11668,Growth,543.46,11,SaaS/Tech,APAC,Inbound/Organic,91,False
+CUST-11669,Starter,162.86,10,E-commerce,Europe,Product-Led Trial,64,False
+CUST-11670,Starter,103.54,22,Manufacturing,MEA,Partner/Referral,65,False
+CUST-11671,Growth,761.14,5,Healthcare,North America,Partner/Referral,397,False
+CUST-11672,Starter,126.33,7,SaaS/Tech,North America,Partner/Referral,9,False
+CUST-11673,Growth,926.7,22,Education,APAC,Paid Search,28,False
+CUST-11674,Starter,180.62,22,E-commerce,APAC,Paid Search,47,False
+CUST-11675,Enterprise,2827.89,7,Media,Europe,Inbound/Organic,37,True
+CUST-11676,Enterprise,5694.64,15,Professional Services,North America,Partner/Referral,43,True
+CUST-11677,Enterprise,7316.42,17,Education,Europe,Partner/Referral,2,True
+CUST-11678,Growth,418.14,0,SaaS/Tech,APAC,Product-Led Trial,29,False
+CUST-11679,Growth,780.56,20,Manufacturing,APAC,Outbound Sales,25,False
+CUST-11680,Growth,226.57,22,FinTech,North America,Inbound/Organic,200,False
+CUST-11681,Growth,373.13,12,FinTech,North America,Outbound Sales,7,False
+CUST-11682,Enterprise,7711.28,0,Manufacturing,Europe,Outbound Sales,15,True
+CUST-11683,Starter,123.88,16,Education,North America,Outbound Sales,29,False
+CUST-11684,Growth,853.48,10,Media,Europe,Product-Led Trial,10,False
+CUST-11685,Growth,823.19,21,Professional Services,Europe,Partner/Referral,167,False
+CUST-11686,Growth,906.23,17,FinTech,North America,Product-Led Trial,35,False
+CUST-11687,Starter,195.91,12,E-commerce,Europe,Paid Search,36,False
+CUST-11688,Growth,261.91,6,Education,North America,Product-Led Trial,15,True
+CUST-11689,Growth,272.58,0,Education,APAC,Partner/Referral,109,False
+CUST-11690,Starter,63.76,13,FinTech,North America,Paid Search,14,True
+CUST-11691,Growth,487.75,11,Healthcare,North America,Outbound Sales,67,False
+CUST-11692,Starter,131.22,11,Professional Services,Europe,Inbound/Organic,4,False
+CUST-11693,Enterprise,3610.09,18,Healthcare,Europe,Paid Search,16,True
+CUST-11694,Starter,186.55,20,SaaS/Tech,Europe,Partner/Referral,3,False
+CUST-11695,Enterprise,6067.46,8,Professional Services,North America,Product-Led Trial,115,True
+CUST-11696,Growth,869.35,1,Education,Europe,Paid Search,20,False
+CUST-11697,Starter,85.35,14,E-commerce,Europe,Inbound/Organic,38,True
+CUST-11698,Enterprise,4680.95,18,Education,MEA,Paid Search,15,True
+CUST-11699,Growth,258.07,10,Education,North America,Paid Search,41,False
+CUST-11700,Enterprise,3075.57,5,Healthcare,Europe,Paid Search,3,True
+CUST-11701,Starter,124.36,0,FinTech,Europe,Outbound Sales,244,True
+CUST-11702,Starter,166.94,22,E-commerce,North America,Product-Led Trial,119,True
+CUST-11703,Growth,783.81,16,Media,Europe,Paid Search,19,False
+CUST-11704,Starter,98.47,6,Manufacturing,APAC,Inbound/Organic,2,False
+CUST-11705,Starter,51.6,21,E-commerce,North America,Outbound Sales,32,False
+CUST-11706,Growth,943.52,17,Healthcare,North America,Paid Search,221,False
+CUST-11707,Starter,111.69,6,Healthcare,Europe,Partner/Referral,65,False
+CUST-11708,Growth,552.56,12,Media,North America,Inbound/Organic,13,False
+CUST-11709,Starter,92.34,18,SaaS/Tech,Europe,Paid Search,28,False
+CUST-11710,Growth,706.72,18,Education,North America,Outbound Sales,6,False
+CUST-11711,Enterprise,6199.12,20,E-commerce,North America,Inbound/Organic,39,True
+CUST-11712,Starter,113.69,14,FinTech,North America,Inbound/Organic,41,False
+CUST-11713,Growth,944.99,6,Manufacturing,MEA,Product-Led Trial,22,False
+CUST-11714,Growth,539.22,13,Healthcare,LATAM,Outbound Sales,289,False
+CUST-11715,Starter,187.47,10,Education,Europe,Paid Search,7,False
+CUST-11716,Starter,83.83,0,Healthcare,APAC,Outbound Sales,45,True
+CUST-11717,Enterprise,5209.57,9,FinTech,Europe,Product-Led Trial,113,True
+CUST-11718,Starter,116.97,16,Media,North America,Inbound/Organic,56,True
+CUST-11719,Enterprise,2506.63,14,E-commerce,North America,Paid Search,21,True
+CUST-11720,Enterprise,5086.13,17,SaaS/Tech,LATAM,Partner/Referral,40,True
+CUST-11721,Starter,49.21,19,SaaS/Tech,North America,Paid Search,95,False
+CUST-11722,Enterprise,1274.71,15,SaaS/Tech,Europe,Product-Led Trial,3,True
+CUST-11723,Growth,846.86,3,Education,LATAM,Outbound Sales,5,False
+CUST-11724,Starter,172.46,0,Education,Europe,Partner/Referral,12,True
+CUST-11725,Enterprise,6964.08,7,Media,APAC,Product-Led Trial,10,True
+CUST-11726,Starter,150.93,7,Media,APAC,Product-Led Trial,55,False
+CUST-11727,Growth,616.67,8,E-commerce,Europe,Paid Search,68,True
+CUST-11728,Growth,639.38,5,Manufacturing,North America,Paid Search,17,False
+CUST-11729,Growth,572.83,7,SaaS/Tech,APAC,Inbound/Organic,11,False
+CUST-11730,Enterprise,1779.2,21,SaaS/Tech,Europe,Partner/Referral,143,True
+CUST-11731,Growth,809.07,3,E-commerce,LATAM,Inbound/Organic,116,True
+CUST-11732,Enterprise,4574.99,0,Professional Services,Europe,Outbound Sales,25,True
+CUST-11733,Growth,820.14,12,Manufacturing,APAC,Partner/Referral,26,False
+CUST-11734,Enterprise,7872.09,20,Professional Services,APAC,Partner/Referral,12,True
+CUST-11735,Starter,103.49,1,SaaS/Tech,North America,Paid Search,99,True
+CUST-11736,Enterprise,5949.96,10,Manufacturing,North America,Inbound/Organic,39,True
+CUST-11737,Enterprise,5525.01,1,Professional Services,APAC,Partner/Referral,89,True
+CUST-11738,Starter,92.77,3,Media,APAC,Inbound/Organic,6,False
+CUST-11739,Starter,142.71,9,E-commerce,North America,Paid Search,4,False
+CUST-11740,Growth,544.31,11,Media,North America,Outbound Sales,3,False
+CUST-11741,Enterprise,2917.93,19,Media,MEA,Partner/Referral,74,True
+CUST-11742,Growth,213.7,21,E-commerce,LATAM,Product-Led Trial,17,False
+CUST-11743,Growth,924.67,17,SaaS/Tech,MEA,Product-Led Trial,23,True
+CUST-11744,Growth,360.58,3,Media,APAC,Paid Search,15,True
+CUST-11745,Starter,62.71,0,Professional Services,APAC,Inbound/Organic,28,False
+CUST-11746,Growth,833.79,12,SaaS/Tech,North America,Outbound Sales,30,True
+CUST-11747,Starter,56.77,17,Professional Services,LATAM,Outbound Sales,13,False
+CUST-11748,Starter,129.57,19,E-commerce,APAC,Paid Search,21,False
+CUST-11749,Starter,143.97,8,Media,Europe,Paid Search,6,False
+CUST-11750,Starter,91.23,7,Healthcare,North America,Product-Led Trial,27,False
+CUST-11751,Enterprise,7079.53,19,Healthcare,APAC,Product-Led Trial,47,True
+CUST-11752,Enterprise,3190.62,9,SaaS/Tech,Europe,Paid Search,5,True
+CUST-11753,Growth,560.62,19,Media,North America,Paid Search,19,False
+CUST-11754,Starter,159.69,8,Professional Services,North America,Partner/Referral,7,False
+CUST-11755,Starter,160.56,2,Professional Services,Europe,Paid Search,35,False
+CUST-11756,Starter,77.03,9,Education,APAC,Product-Led Trial,29,False
+CUST-11757,Starter,109.11,16,Healthcare,North America,Paid Search,8,False
+CUST-11758,Growth,492.97,12,Education,North America,Product-Led Trial,41,False
+CUST-11759,Growth,613.57,10,Media,MEA,Paid Search,4,True
+CUST-11760,Starter,51.34,3,Media,North America,Partner/Referral,8,False
+CUST-11761,Enterprise,5300.87,22,Education,North America,Inbound/Organic,13,True
+CUST-11762,Starter,125.18,11,Education,APAC,Paid Search,120,False
+CUST-11763,Growth,832.17,19,FinTech,North America,Paid Search,19,False
+CUST-11764,Enterprise,7486.2,21,Healthcare,North America,Paid Search,14,True
+CUST-11765,Growth,683.71,17,SaaS/Tech,APAC,Partner/Referral,16,False
+CUST-11766,Starter,57.62,7,Professional Services,APAC,Paid Search,9,False
+CUST-11767,Starter,82.94,4,E-commerce,APAC,Partner/Referral,52,False
+CUST-11768,Starter,142.16,19,E-commerce,North America,Inbound/Organic,135,False
+CUST-11769,Enterprise,1115.78,15,Education,Europe,Outbound Sales,32,True
+CUST-11770,Enterprise,2410.13,18,E-commerce,North America,Product-Led Trial,26,True
+CUST-11771,Growth,545.68,20,Media,MEA,Partner/Referral,6,False
+CUST-11772,Starter,118.68,4,FinTech,North America,Paid Search,7,False
+CUST-11773,Enterprise,3331.51,15,Manufacturing,North America,Product-Led Trial,10,True
+CUST-11774,Starter,129.56,12,Professional Services,North America,Product-Led Trial,21,False
+CUST-11775,Starter,87.51,4,Education,Europe,Inbound/Organic,10,False
+CUST-11776,Starter,159.03,8,Education,North America,Product-Led Trial,83,False
+CUST-11777,Starter,162.39,5,Education,Europe,Inbound/Organic,185,False
+CUST-11778,Starter,165.87,21,Education,LATAM,Inbound/Organic,16,False
+CUST-11779,Growth,329.26,10,Education,North America,Outbound Sales,697,True
+CUST-11780,Starter,61.82,19,Manufacturing,North America,Product-Led Trial,50,False
+CUST-11781,Growth,904.29,9,Professional Services,North America,Paid Search,11,False
+CUST-11782,Growth,419.86,5,Media,APAC,Partner/Referral,14,False
+CUST-11783,Starter,67.98,8,Media,Europe,Inbound/Organic,254,False
+CUST-11784,Enterprise,7232.96,10,Healthcare,North America,Inbound/Organic,102,True
+CUST-11785,Growth,898.4,11,Manufacturing,APAC,Partner/Referral,27,False
+CUST-11786,Starter,63.49,8,Manufacturing,LATAM,Inbound/Organic,19,False
+CUST-11787,Growth,422.51,10,FinTech,North America,Paid Search,15,False
+CUST-11788,Enterprise,3883.28,8,SaaS/Tech,Europe,Paid Search,10,True
+CUST-11789,Starter,85.14,20,Media,North America,Product-Led Trial,14,False
+CUST-11790,Enterprise,3762.23,22,Media,North America,Partner/Referral,8,True
+CUST-11791,Growth,206.27,9,Professional Services,APAC,Outbound Sales,10,False
+CUST-11792,Enterprise,4045.64,10,Education,LATAM,Product-Led Trial,21,True
+CUST-11793,Growth,374.52,1,Media,Europe,Inbound/Organic,27,True
+CUST-11794,Starter,161.98,5,Media,APAC,Product-Led Trial,14,True
+CUST-11795,Starter,182.16,5,Professional Services,North America,Outbound Sales,12,False
+CUST-11796,Growth,541.34,18,Manufacturing,APAC,Partner/Referral,47,False
+CUST-11797,Starter,174.39,18,Healthcare,Europe,Outbound Sales,61,False
+CUST-11798,Starter,79.3,2,Manufacturing,APAC,Outbound Sales,19,False
+CUST-11799,Starter,74.14,9,Professional Services,Europe,Paid Search,116,False
