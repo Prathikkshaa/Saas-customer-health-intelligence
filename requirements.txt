@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+faker
+lifelines
+jupyter
+nbformat
+nbconvert
+reportlab
+pypdf
