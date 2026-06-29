@@ -1,0 +1,120 @@
+{
+  "total_customers": 1800,
+  "active_customers": 1202,
+  "overall_churn_rate_pct": 33.2,
+  "current_arr": 24489349.0,
+  "avg_nrr_pct": 103.2,
+  "latest_nrr_pct": 105.3,
+  "expansion_rate_pct": 22.1,
+  "logreg_churn_auc": 0.79,
+  "xgb_expansion_auc": 0.782,
+  "plan_breakdown": [
+    {
+      "plan_tier": "Enterprise",
+      "customers": 349,
+      "churn_rate": 9.0,
+      "avg_mrr": 5296.47,
+      "avg_nps": 61.15
+    },
+    {
+      "plan_tier": "Growth",
+      "customers": 598,
+      "churn_rate": 28.0,
+      "avg_mrr": 638.24,
+      "avg_nps": 60.42
+    },
+    {
+      "plan_tier": "Starter",
+      "customers": 853,
+      "churn_rate": 47.0,
+      "avg_mrr": 126.33,
+      "avg_nps": 61.01
+    }
+  ],
+  "nrr_series": {
+    "12": 108.2,
+    "13": 103.9,
+    "14": 104.0,
+    "15": 101.4,
+    "16": 104.9,
+    "17": 100.9,
+    "18": 100.0,
+    "19": 102.1,
+    "20": 103.1,
+    "21": 102.3,
+    "22": 102.7,
+    "23": 105.3
+  },
+  "arr_series": {
+    "0": 893070.0,
+    "1": 1712703.0,
+    "2": 2813105.0,
+    "3": 3540870.0,
+    "4": 4270425.0,
+    "5": 5747510.0,
+    "6": 6715867.0,
+    "7": 7976300.0,
+    "8": 9116095.0,
+    "9": 9839839.0,
+    "10": 10398547.0,
+    "11": 11652339.0,
+    "12": 12997846.0,
+    "13": 13918021.0,
+    "14": 14667406.0,
+    "15": 15838669.0,
+    "16": 17210867.0,
+    "17": 18279600.0,
+    "18": 19546926.0,
+    "19": 21023494.0,
+    "20": 21984737.0,
+    "21": 23252948.0,
+    "22": 24403421.0,
+    "23": 24569014.0
+  },
+  "churn_by_region": {
+    "APAC": 33.2,
+    "Europe": 32.2,
+    "LATAM": 38.4,
+    "MEA": 31.2,
+    "North America": 33.0
+  },
+  "churn_by_channel": {
+    "Inbound/Organic": 35.1,
+    "Outbound Sales": 34.2,
+    "Paid Search": 30.6,
+    "Partner/Referral": 32.2,
+    "Product-Led Trial": 34.5
+  },
+  "real_benchmarks": {
+    "Datadog": {
+      "model": "Consumption-based",
+      "nrr_pct": "110-130 (FY25-26)",
+      "arr_usd_b": 4.23
+    },
+    "HubSpot": {
+      "model": "Seat/tier-based",
+      "nrr_pct": "103 (Q1 2026)",
+      "arr_usd_b": 3.7
+    }
+  },
+  "churn_driver_coefs": {
+    "tenure_months": -0.96,
+    "avg_logins": -0.073,
+    "avg_support_tickets": 0.033,
+    "avg_nps": -0.061,
+    "active_seats_pct": 0.031,
+    "features_adopted": -0.062,
+    "company_size_employees": 0.013,
+    "has_csm": -0.576
+  },
+  "expansion_feature_importance": {
+    "tenure_months": 0.30399999022483826,
+    "avg_logins": 0.10100000351667404,
+    "avg_support_tickets": 0.08500000089406967,
+    "avg_nps": 0.09099999815225601,
+    "active_seats_pct": 0.09600000083446503,
+    "features_adopted": 0.0820000022649765,
+    "company_size_employees": 0.07599999755620956,
+    "has_csm": 0.16300000250339508
+  }
+}
